@@ -770,7 +770,11 @@ Shoemaker Karl said little; but no king upon his throne ever more intensely beli
 
 But at the time the Bible-reading served as a not unpleasant accompaniment to his pipe, which he would not for worlds have disturbed or interfered with. "Religion was an excellent thing for women," said Karl Metzerott.
 
-During the following summer occurred the great Sänger-fest,[^sangerfest] the first held by the Sängerbund to which belonged the Micklegard Männerchor. Karl had been married nearly six months at the time, and when we say that in all proba-<hr><p class="pagenum"><sup>Page 44</sup></p>bility he would not have gone if he could not have taken Dora, we have sufficiently indicated that he was still very much in love with his wife. Fortunately, Laketon, where the Fest was held, is only a short journey by rail from Micklegard, so that travelling expenses were light; and he had cousins in Laketon with whom they could board very reasonably; nevertheless, the sum expended made a hole in Karl's savings-bank account, at which he would have shaken his head dismally a year before.
+During the following summer occurred the great Sänger-fest,[^sangerfest] the first held by the Sängerbund to which belonged the Micklegard Männerchor. Karl had been married nearly six months at the time, and when we say that in all proba-
+
+<hr><p class="pagenum"><sup>Page 44</sup></p>
+
+bility he would not have gone if he could not have taken Dora, we have sufficiently indicated that he was still very much in love with his wife. Fortunately, Laketon, where the Fest was held, is only a short journey by rail from Micklegard, so that travelling expenses were light; and he had cousins in Laketon with whom they could board very reasonably; nevertheless, the sum expended made a hole in Karl's savings-bank account, at which he would have shaken his head dismally a year before.
 
 [^sangerfest]: German men's singing groups (*Saengerbunds*) formed in Germany in the early nineteenth century and were closely followed by German-American communities in the United States. Annual *Saengerfests*, or singing festivals, pitted different groups against one another in competition and drew hundreds, sometimes thousands, of participants through the early twentieth century. The *Saengerfests* became popular entertainments outside the German-American community, and continue to be organized to this day. Their popularity diminished as a result of anti-German sentiment fomented during both World War I and World War II.
 
@@ -820,7 +824,11 @@ She was thinking blissfully of this and other matters, in the train that bore he
 
 "Oh! perhaps, yes. I don't quarrel with your religion as a system of morality, Clare. It is"&mdash;
 
-"I know; miracles. But how a fellow who, not content with making bricks without straw, tries to build a house by tearing up the foundations, can quarrel with miracles, passes my comprehension. Look here. Do you not know that it is a waste of time to reform society from the out-<hr><p class="pagenum"><sup>Page 47</sup></p>side, and especially by main force? The worm at the root of the social tree, my dear fellow, is sin. How do you propose to get rid of it?"
+"I know; miracles. But how a fellow who, not content with making bricks without straw, tries to build a house by tearing up the foundations, can quarrel with miracles, passes my comprehension. Look here. Do you not know that it is a waste of time to reform society from the out-
+
+<hr><p class="pagenum"><sup>Page 47</sup></p>
+
+side, and especially by main force? The worm at the root of the social tree, my dear fellow, is sin. How do you propose to get rid of it?"
 
 "Ah, there indeed," sighed the German, his metaphysical soul rising to the bait, "you start the great religious problem, my friend, with which Zoroaster, Buddha, and other religious teachers have grappled."
 
@@ -5695,7 +5703,7 @@ own bread-winner and property-holder' will be equally a relic of barbarism," sai
 
 It was evident that Freddy and the Ark of the Covenant would soon part for this world, though he lay still, propped with pillows, upon its friendly bosom, white and shadowy, only the great brown eyes full of life and gladness. Freddy had had a long attack of lung-fever, from which, though the disease had been broken, he had no strength to rally. For a time he had seemed better, then he began to fade, slowly and painlessly, like a flower; but also with conscious gladness, impossible to a flower. He welcomed his friend with a smile and feeble outstretched 
 
-hr><p class="pagenum"><sup>Page 327</sup></p> 
+<hr><p class="pagenum"><sup>Page 327</sup></p> 
 
 hand; but not till Dr. Richards had left them came the whisper, "Have you seen her, Louis? Isn't she pretty?"
 
