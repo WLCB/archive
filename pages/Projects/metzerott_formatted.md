@@ -580,7 +580,7 @@ mode of address, and not quite sure that hee had fully understood his interlocut
 
 "So? And you find the sheep of your pasture obey your words? or is the crook sometimes needful to coerce them into the right way?"
 
-"They are as good as other people," returned the pastor, relapsing into bewilderment. His questioner shrugged slightly his shapely shoulders, as he turned away to his old position."You are happy if they are no worse," he said.
+"They are as good as other people," returned the pastor, relapsing into bewilderment. His questioner shrugged slightly his shapely shoulders, as he turned away to his old position. "You are happy if they are no worse," he said.
 
 At the same moment, he started into sudden vigor and alertness, with a gleam in his eye that told of eagerness for the fray. A heavy silk curtain that hung beside the fireplace was suddenly swept aside, with an angry rattle of rings upon a brass rod, and in the opening appeared a handsome, stately, well-dressed woman, of something more than his own age.
 
@@ -679,11 +679,7 @@ Mrs. Randolph was furious, and slightly undignified.
 
 "Yes," she said softly; then her eyes suddenly flashed, her cheeks grew crimson; she turned upon her sister with the air of a lioness defending her young.
 
-"Do you suppose I have not seen," she cried, "how you
-
-<hr><p class="pagenum"><sup>Page 37</sup></p> 
-
-wish me to marry him while pretending to oppose it? I am ashamed for you, Jennie, ashamed to put your motive into words, because you are my brother's wife. But don't delude yourself with the idea that it is your work; I would have given up the money in any case rather than force him to act against what he believes to be right; and I love him so dearly that I had rather endure misery, cold, and hunger with him than to be a queen without him."
+"Do you suppose I have not seen," she cried, "how you<hr><p class="pagenum"><sup>Page 37</sup></p> wish me to marry him while pretending to oppose it? I am ashamed for you, Jennie, ashamed to put your motive into words, because you are my brother's wife. But don't delude yourself with the idea that it is your work; I would have given up the money in any case rather than force him to act against what he believes to be right; and I love him so dearly that I had rather endure misery, cold, and hunger with him than to be a queen without him."
 
 Here, woman-like, her vehemence resolved itself into a burst of tears, and, turning, she threw herself into the arms that were open to receive her.
 
@@ -768,21 +764,13 @@ And so they were married by the Episcopal clergyman, who in the morning of the s
 
 After the ceremony, the happy pair and their friends, who had witnessed the marriage, partook of a social tea, for which Frau Kellar provided house-room, and the bridegroom paid; then, husband and wife went home to their little three-roomed dwelling, and the new life began.
 
-And then for a while how Karl would have laughed at any pessimistic theories. As for Dora, she would not have known a theory of any description, if she had stumbled across one. But she was very, very happy, our little Dora! Life had not been easy to her, an orphan, main-
-
-<hr><p class="pagenum"><sup>Page 43</sup></p>
-
-tained and educated by grudging fraternal care, and with her early hope nipped, in its first flower, by the frost of death. Now, surrounded by love, her nature blossomed into a wonderful luxuriance; the wistful blue eyes grew full of laughter, the sad lips smiled, and the cheeks grew rosy. She was as merrily busy all day long as a child at play; and Frau Metzerott the elder found her a daughter beyond her dreams.
+And then for a while how Karl would have laughed at any pessimistic theories. As for Dora, she would not have known a theory of any description, if she had stumbled across one. But she was very, very happy, our little Dora! Life had not been easy to her, an orphan, main-<hr><p class="pagenum"><sup>Page 43</sup></p>tained and educated by grudging fraternal care, and with her early hope nipped, in its first flower, by the frost of death. Now, surrounded by love, her nature blossomed into a wonderful luxuriance; the wistful blue eyes grew full of laughter, the sad lips smiled, and the cheeks grew rosy. She was as merrily busy all day long as a child at play; and Frau Metzerott the elder found her a daughter beyond her dreams.
 
 Shoemaker Karl said little; but no king upon his throne ever more intensely believed his wife a queen among women. All day he could hear her blithe, sweet voice, singing over her work, or chatting and laughing with his mother, who had suddenly failed, now that she had some one to rest her cares upon. It mattered little, she said; Dora was eyes, hands, and feet to her; she had worked hard enough in her time, now she could rest. And so she lay and rested under her gay, patchwork quilt, upon her testered bed, while Dora bustled cheerfully about the tiny kitchen. In the evening, when work was over, she would often draw the old candle-stand to the bedside, and, with the yellow lamplight shining on her golden hair, read aloud from the heavy yellowed pages of the old German Bible, while Karl sat near with his pipe. Not that he listened, except to the soft murmur of his wife's sweet voice; yet the unheeded words returned to him in after years, stirring always a new throb of misery.
 
 But at the time the Bible-reading served as a not unpleasant accompaniment to his pipe, which he would not for worlds have disturbed or interfered with. "Religion was an excellent thing for women," said Karl Metzerott.
 
-During the following summer occurred the great Sänger-fest,[^sangerfest] the first held by the Sängerbund to which belonged the Micklegard Männerchor. Karl had been married nearly six months at the time, and when we say that in all proba-
-
-<hr><p class="pagenum"><sup>Page 44</sup></p>
-
-bility he would not have gone if he could not have taken Dora, we have sufficiently indicated that he was still very much in love with his wife. Fortunately, Laketon, where the Fest was held, is only a short journey by rail from Micklegard, so that travelling expenses were light; and he had cousins in Laketon with whom they could board very reasonably; nevertheless, the sum expended made a hole in Karl's savings-bank account, at which he would have shaken his head dismally a year before.
+During the following summer occurred the great Sänger-fest,[^sangerfest] the first held by the Sängerbund to which belonged the Micklegard Männerchor. Karl had been married nearly six months at the time, and when we say that in all proba-<hr><p class="pagenum"><sup>Page 44</sup></p>bility he would not have gone if he could not have taken Dora, we have sufficiently indicated that he was still very much in love with his wife. Fortunately, Laketon, where the Fest was held, is only a short journey by rail from Micklegard, so that travelling expenses were light; and he had cousins in Laketon with whom they could board very reasonably; nevertheless, the sum expended made a hole in Karl's savings-bank account, at which he would have shaken his head dismally a year before.
 
 [^sangerfest]: German men's singing groups (*Saengerbunds*) formed in Germany in the early nineteenth century and were closely followed by German-American communities in the United States. Annual *Saengerfests*, or singing festivals, pitted different groups against one another in competition and drew hundreds, sometimes thousands, of participants through the early twentieth century. The *Saengerfests* became popular entertainments outside the German-American community, and continue to be organized to this day. Their popularity diminished as a result of anti-German sentiment fomented during both World War I and World War II.
 
@@ -795,7 +783,6 @@ She was thinking blissfully of this and other matters, in the train that bore he
 "What do you call its Self? You seem to object to its most necessary elements."
 
 <hr><p class="pagenum"><sup>Page 45</sup></p>
-
 "By no means. I only say that you Socialists are short-sighted, and seem to adopt the very measures best calculated to defeat your own ends."
 
 "Specify, specify!" growled the German.
@@ -833,11 +820,7 @@ She was thinking blissfully of this and other matters, in the train that bore he
 
 "Oh! perhaps, yes. I don't quarrel with your religion as a system of morality, Clare. It is"&mdash;
 
-"I know; miracles. But how a fellow who, not content with making bricks without straw, tries to build a house by tearing up the foundations, can quarrel with miracles, passes my comprehension. Look here. Do you not know that it is a waste of time to reform society from the out-
-
-<hr><p class="pagenum"><sup>Page 47</sup></p>
-
-side, and especially by main force? The worm at the root of the social tree, my dear fellow, is sin. How do you propose to get rid of it?"
+"I know; miracles. But how a fellow who, not content with making bricks without straw, tries to build a house by tearing up the foundations, can quarrel with miracles, passes my comprehension. Look here. Do you not know that it is a waste of time to reform society from the out-<hr><p class="pagenum"><sup>Page 47</sup></p>side, and especially by main force? The worm at the root of the social tree, my dear fellow, is sin. How do you propose to get rid of it?"
 
 "Ah, there indeed," sighed the German, his metaphysical soul rising to the bait, "you start the great religious problem, my friend, with which Zoroaster, Buddha, and other religious teachers have grappled."
 
@@ -863,7 +846,7 @@ He stood, a tall, radiant figure, before One appointed to hear such requests and
 
 "But the choice is forever," he was told. "Victor or vanquished, hither you can never return, save as others have done, in passing from world to world. Man you will be, and man you must remain forever. Also, you will for get your world, your friends; and, though broken visions may float about your infancy, like rainbow hues above the dewdrops of morning, they will vanish all too soon before the coming of that sun of earth."
 
-"Morning and evening are alike His handiwork," he replied."Everywhere and always I shall have Him."
+"Morning and evening are alike His handiwork," he replied. "Everywhere and always I shall have Him."
 
 <hr><p class="pagenum"><sup>Page 49</sup></p>
 
@@ -943,7 +926,7 @@ He did take it to him.
 
 The man of knowledge inspected it closely, and care fully studied every motion. Then he thoughtfully stroked his beard, which was long and luxuriant (perhaps from excess of knowledge) to the point of aggressiveness.
 
-"Yes," he said slowly."Yes, yes. Seems pretty clever: ingenious, too; works all right; labor-saving, no doubt of 
+"Yes," he said slowly. "Yes, yes. Seems pretty clever: ingenious, too; works all right; labor-saving, no doubt of 
 
 <hr><p class="pagenum"><sup>Page 55</sup></p>
 
@@ -1034,7 +1017,7 @@ them it is doubtful whether she could have weathered the first six months of her
 
 "Under the Commune," said Karl Metzerott, with an added bitterness derived from his own personal aggrievement, "Leppel would be alive and an honored citizen."
 
-"I don't know," said Dora doubtfully."That man in Washington, you know, says that the machine would not pay. Would the Commune adopt a machine that would not pay?"
+"I don't know," said Dora doubtfully. "That man in Washington, you know, says that the machine would not pay. Would the Commune adopt a machine that would not pay?"
 
 "It would pay, under the Commune," replied Karl; but as this point belonged to the domain of the unprovable, Dora did not argue upon it.
 
@@ -1197,7 +1180,7 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 ### "&rsquo;VIDING."
 
 <p style="margin-top:1cm;"> </p>
-"PAPA!" said Louis, one autumn evening. The child just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Met zerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
+"PAPA!" said Louis, one autumn evening. The child just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Metzerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
 
 "Well," he said.
 
@@ -1207,11 +1190,11 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 
 "If I were President," said Louis after a thoughtful pause, "I would make more money, so that every one might have enough."
 
-Metzerott smiled, even while he shook his head."There's 
+Metzerott smiled, even while he shook his head. "There's 
 
 <hr><p class="pagenum"><sup>Page 73</sup></p> 
 
-money enough, or so people say, and making more would only lower the value of what there is. That was tried during the war, Louis. [^inflation] The trouble is that all the money is in too few hands. Some have more than enough, and others have nothing. As if I should eat all the dinner, you know, and leave none for you."
+money enough, or so people say, and making more would only lower the value of what there is. That was tried during the war, Louis.[^inflation] The trouble is that all the money is in too few hands. Some have more than enough, and others have nothing. As if I should eat all the dinner, you know, and leave none for you."
 
 [^inflation]: During the Civil War, the economy of the Confederacy was destroyed as a result of the unchecked printing of currency, which caused rampant inflation that rendered Confederate banknotes practically worthless.
 
@@ -1267,7 +1250,7 @@ He leaned his chin upon his two plump hands, as he sat tailor fashion[^tailor] o
 
 "I know," he said, "we can spin it togevver, and it can be bofe of ours. That's the only way to &rsquo;vide a top!"
 
-"You're your mother's own son," said Metzerott. "Come, dinner is ready, let's see how you &rsquo;ide that. There's a splendid pot of soup, enough for a dozen; so never say your father can't cook."
+"You're your mother's own son," said Metzerott. "Come, dinner is ready, let's see how you &rsquo;vide that. There's a splendid pot of soup, enough for a dozen; so never say your father can't cook."
 
 But scarcely had they seated themselves at the table when a heavy fall in the room above was followed by two shrill, feeble, feminine shrieks. Metzerott ran hastily up the stairs, which he had not ascended since the death of his wife, followed more slowly by Louis, to whom they were more familiar, though the silent pre-occupation of the sisters had not tended to encourage his visits.
 
@@ -1303,7 +1286,7 @@ Metzerott had listened to this long story with a frown of sympathy contracting h
 
 <hr><p class="pagenum"><sup>Page 78</sup></p>
 
-Metzerott caught the boy in his arms."Do you hear the emperor?" he cried. "Louis Napoleon must be obeyed. Come down to dinner, all of you!"
+Metzerott caught the boy in his arms. "Do you hear the emperor?" he cried. "Louis Napoleon must be obeyed. Come down to dinner, all of you!"
 
 It was good to see the starving women eat, and Louis' face bright with the joy of &rsquo;viding. Metzerott, as he watched them, knew not whether to be glad or sorrowful. That there should be no more starving under his roof he was quite determined, yet how to take upon himself the support of three full-grown women? At last a happy thought came to him.
 
@@ -1358,7 +1341,7 @@ somethin' to do," said Sally. "It wasn't long after we come to town, and before 
 
 "I *do*," cried Polly impetuously. "A job that takes all your time to earn enough to keep from starving is just robbery and slavery, that's all."
 
-Aunt Sally assented gravely."If you leave your work to look for another job, you are sure to starve before you find one," she said, "and you might as well be chained to a oar, like those people in the ancient history. Fact is, we was worse off than galley-slaves, Sue; for &rsquo;twas the cap tain's interest to keep *them* alive."
+Aunt Sally assented gravely. "If you leave your work to look for another job, you are sure to starve before you find one," she said, "and you might as well be chained to a oar, like those people in the ancient history. Fact is, we was worse off than galley-slaves, Sue; for &rsquo;twas the cap tain's interest to keep *them* alive."
 
 "But it's nobody's interest to keep sewing-women alive," said Polly bitterly; "there's plenty to take our places, if we drop. The labor market is over-stocked, they say."
 
@@ -1420,7 +1403,7 @@ Anna's washing, Sally concluded that they might give up their work at Grind and 
 
 "There wasn't much independence at *our* shop," answered Sally dryly. "I don't know why it is, Mr. Metzerott, but American girls won't live out ef they can do anything else; or ef they do, they feel kinder degraded, and it makes &rsquo;em so uppish and contrary there's no livin' in the house with &rsquo;em. I've seen &rsquo;em real sassy, just because they felt lowered in their own eyes."
 
-"They were fools!" said Metzerott briefly."What is there in honest work to degrade any one?"
+"They were fools!" said Metzerott briefly. "What is there in honest work to degrade any one?"
 
 "&rsquo;Tain't the work," said Sally;"they'd do that at home, and not feel a mite degraded; and &rsquo;tain't the wages, for &rsquo;twouldn't degrade &rsquo;em to earn that behind a counter. Nor &rsquo;tain't *sass*, though there's many a lady as talks to her help like I wouldn't to a dog. Only way I can explain it, Mr. Metzerott, it must be the Constitution of the United States. You see *that* makes every man as good as anybody else; but it ain't lived up to, and the girls feel it, and that's what riles &rsquo;em. Worse than that, they feel they *ain't* as good as 
 
@@ -1465,7 +1448,7 @@ and tempting cheeks, he related to George all the circumstances concerning the f
 
 "That ain't her name," said George slowly, "her name is Anna Rolf."
 
-The fat sides shook again."You do as I tell you," she said; "and see here, Louis Metzerott, you eat that apple up, do you hear, and don't give none of it to nobody. Apples is good for boys, they fall in their legs, and make &rsquo;em grow. *Verstanden*?"
+The fat sides shook again. "You do as I tell you," she said; "and see here, Louis Metzerott, you eat that apple up, do you hear, and don't give none of it to nobody. Apples is good for boys, they fall in their legs, and make &rsquo;em grow. *Verstanden*?"
 
 "Yes, ma'am," said Louis, obediently taking such a very large bite that he had some difficulty in disposing of it.
 
@@ -1873,7 +1856,7 @@ But at this moment an exclamation from Mrs. Randolph interrupted him. Louis and 
 
 "It is very different," remarked Mrs. Randolph. "Freddy is your cousin; but this little boy is no relation, and is besides in quite a different state of life."
 
-"Fut is state of life?" asked Pinkie."Is it tause he tan yun ayound and F'eddy tant?"
+"Fut is state of life?" asked Pinkie. "Is it tause he tan yun ayound and F'eddy tant?"
 
 <hr><p class="pagenum"><sup>Page 111</sup></p>
 
@@ -1881,7 +1864,7 @@ But at this moment an exclamation from Mrs. Randolph interrupted him. Louis and 
 
 "Good-by, child," said the great lady, patting Louis' golden head; "I wish you every good fortune that is proper for you to have. I was your mother's best friend, if she had only known it, and would have saved her from the misery that afterwards, in the righteous Providence of God, overtook her."
 
-"What is misery?" asked little Louis, wistfully; "is it dying? My papa says she died &rsquo;cause we was poor, and the miliionnaires wouldn't &rsquo;vide. Are you a millionnaire, and would you &rsquo;vide?"
+"What is misery?" asked little Louis, wistfully; "is it dying? My papa says she died &rsquo;cause we was poor, and the millionnaires wouldn't &rsquo;vide. Are you a millionnaire, and would you &rsquo;vide?"
 
 "Quite a promising young Socialist," observed Mr. Randolph. "His father must be a dangerous man."
 
@@ -2231,7 +2214,7 @@ Besides their "moving and unpacking," as Sally jocularly called it,&mdash;for th
 
 Polly, who was three years his senior, laughed at the lad's devotion, and alternately petted and scolded him, like a mother. Franz submitted; but he had entirely made up his mind as to his own course.
 
-"I mean to marry her if she will wait until I come back from Germany," he said to himself."If she marries any one else, I will kill him like a mosquito."
+"I mean to marry her if she will wait until I come back from Germany," he said to himself. "If she marries any one else, I will kill him like a mosquito."
 
 Certainly, no one suspected such bloodthirsty designs in the quiet youth who lounged awkwardly against the door post as the members of the MUannerchor climbed, laughing and talking, up the steep winding staircase that led to the Concert Hall, most of them pausing to chaff "Janitor Franz," as they went by. Franz was not good at chaff; he never could think of anything clever enough to say until 
 
@@ -2479,20 +2462,20 @@ cure him, that is impossible; but it may help him very materially. Harrison hope
 
 That same night Susan Price quietly and peacefully faded out of life. She had borne sorrow and pain enough; had she helped any one to be good? It would have been hard to judge of so blank and colorless a life. She had never seemed other than a pale reflection of her sister, even her love and loyalty to whom had been too instinctive and shadow-like to appear other than a thing of course.
 
-"I'll try to live without you, Sue," said Sally, looking down on the cold, placid face."I'll try to live without you, and, since the Lord has taken you, I s'pose I kin, *now*! But when we was poor and starvin', Sue, I couldn't of, I know I couldn't; and it'll be a long day, sister, until I see you again."
+"I'll try to live without you, Sue," said Sally, looking down on the cold, placid face. "I'll try to live without you, and, since the Lord has taken you, I s'pose I kin, *now*! But when we was poor and starvin', Sue, I couldn't of, I know I couldn't; and it'll be a long day, sister, until I see you again."
 
 And this was Susan Price's sole funeral oration.
 
 <hr><p class="pagenum"><sup>Page 145</sup></p>
   
-## BOOK II. {#bk2ch1}
+## BOOK II.
 
 ### ALTRUISM.
 
 <hr><p class="pagenum"><sup>[Page 146 blank]</sup></p>
 
 <hr>
-<button class="btn btn-secondary btn-lg iframebutton" id="b147" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/147/mode/1up" onclick="loadFrame(this)" data-iframe="frame147>Page 147 • click to view</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b147" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/147/mode/1up" onclick="loadFrame(this)" data-iframe="frame147">Page 147 • click to view</button> 
 <iframe style="display: none" id="frame147" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <p style="margin-top:2cm;"></p>
@@ -2512,7 +2495,7 @@ Up and down the sunniest part of the platform he walked briskly, with at every t
 
 "No, no, Denny, not so bad as that; only waiting for a friend. She's late to-day?" with a motion of his head towards the point whence the train should have appeared half an hour before. Denny, however, was in no danger of misunderstanding the figuratively feminine pronoun.
 
-"Av it was the furst toime, she'd a &rsquo;slipped the track," he said dryly."That ould tin o'clock niver gits in till noon."
+"Av it was the furst toime, she'd a &rsquo;slipped the track," he said dryly. "That ould tin o'clock niver gits in till noon."
 
 <hr><p class="pagenum"><sup>Page 148</sup></p>
 
@@ -2572,7 +2555,7 @@ They had halted before a large block of buildings, not of a particularly tine or
 
 <hr><p class="pagenum"><sup>Page 152</sup></p>
 
-Ernest Clare smiled. "Factory hands and teachers, *et id genus omne*!"[^etid] he said."I think I'll go over the building, Bryan. But do you take all your meals here? I know you've a house of your own."
+Ernest Clare smiled. "Factory hands and teachers, *et id genus omne*!"[^etid] he said. "I think I'll go over the building, Bryan. But do you take all your meals here? I know you've a house of your own."
 
 [^etid]: And all that kind (Latin).
 
@@ -2754,7 +2737,7 @@ the orders, transmitted, through the executive committee, from the heads of depa
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER II. {#bk2ch2}
+#### CHAPTER II.
 
 ### NEO-SOCIALISM.
 
@@ -2945,7 +2928,7 @@ Father McClosky rubbed his nose thoughtfully. "And what is it ye mean to do?" he
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER III. {#bk2ch3}
+#### CHAPTER III. 
 
 ### PRINCE LOUIS.
 
@@ -3000,7 +2983,7 @@ There was a perceptible emotion at the Founders' table; then Sally Price said dr
 
 "I have come to 'Prices' to find work if I can," replied Ernest Clare. "I was a poor boy, Mr. Metzerott, and learned the trade of a carpenter, not from choice but necessity, and supported myself by it until I went to the Theological Seminary."
 
-"Where ye was educated free like myself, though not in the true faith," said Father McClosky."Ye see, Emperor, 
+"Where ye was educated free like myself, though not in the true faith," said Father McClosky. "Ye see, Emperor, 
 
 <hr><p class="pagenum"><sup>Page 178</sup></p> 
 
@@ -3263,7 +3246,9 @@ him in right of their life together and his affliction, had contrived to infuse 
 
 Dessert was on the table when a slender gray figure knocked at the glass door opening into the garden. It was Louis' usual entrance; for, as Freddy now occupied the doctor's offices on the ground-floor, it was more convenient to both. The back office had been turned into a bedroom, when it became difficult to manage the conveyance of the Ark up and down the stairway; the front room Freddy sat and painted in, except during office-hours, when he retired before the doctor's patients; but these, though numerous, brought so little increase to the treasury that, to any others but Frederick Richards and his son, their number would have been positively disheartening.
 
-Henry Randolph raised his eyebrows the barest line&mdash;just a shadow of a line&mdash;as the young shoemaker entered, and, though evidently just a little disconcerted at finding the family still at table, made his apology to Alice, and accepted a chair at Freddy's side, and a portion of birthday ice-cream, as simply and easily as if his grandfather had"come over with King Charles, "like the Spanyels." I thought you would have finished," said Louis, "but, of course, birthday wishes take some time," and he bowed across the table to Pinkie, with a frank boyish smile. "If you are not tired of them, Miss Rose, I hope you will accept mine," continued the boy with very pretty, old-fashioned courtesy. Frank scowled, and muttered something under his breath; but Mr. Randolph, whose own manners were justly celebrated, felt his heart warm towards the young man.
+Henry Randolph raised his eyebrows the barest line&mdash;just a shadow of a line&mdash;as the young shoemaker entered, and, though evidently just a little disconcerted at finding the family still at table, made his apology to Alice, and accepted a chair at Freddy's side, and a portion of birthday ice-cream, as simply and easily as if his grandfather had "come over with King Charles," like the "Spanyels." 
+
+"I thought you would have finished," said Louis, "but, of course, birthday wishes take some time," and he bowed across the table to Pinkie, with a frank boyish smile. "If you are not tired of them, Miss Rose, I hope you will accept mine," continued the boy with very pretty, old-fashioned courtesy. Frank scowled, and muttered something under his breath; but Mr. Randolph, whose own manners were justly celebrated, felt his heart warm towards the young man.
 
 "It's merely imitative, of course," he said to himself. "He has had the same training as Fred, and does the trainers credit, I must say. If he were anything but a shoemaker, and then that confounded 'Prices'&mdash;hot-
 
@@ -4040,7 +4025,7 @@ touching in the atmosphere of this home, its intellect, its refinement, purity, 
 
 "Gradual enfranchisement," said Mr. Clare, "and brotherly love on both sides."
 
-Dr. Richards shrugged his shoulders. "It is a question of next things," said the clergyman."Some day I will read you a little poem, if you like, about that. The idea 
+Dr. Richards shrugged his shoulders. "It is a question of next things," said the clergyman. "Some day I will read you a little poem, if you like, about that. The idea 
 
 <hr><p class="pagenum"><sup>Page 233</sup></p> 
 
@@ -4084,9 +4069,9 @@ If he hoped to catch Ernest Clare tripping, he missed his mark.
 
 <hr><p class="pagenum"><sup>Page 235</sup></p> 
 
-hundred, from modified Hebraism to Socialism equals only about one. I see only a solitary obstacle; but that will make one equal to the *m*th power of one hundred."
+hundred, from modified Hebraism to Socialism equals only about one. I see only a solitary obstacle; but that will make one equal to the *n*th power of one hundred."
 
-"An impossible equation," said Mr. Clare, smiling."What is the obstacle?"
+"An impossible equation," said Mr. Clare, smiling. "What is the obstacle?"
 
 "This. Given your equitable division and your Jewish land-laws&mdash;why, the people would be too well contented to take any more steps until that state of society had become as rotten as the present."
 
@@ -4110,7 +4095,7 @@ that the Declaration will take care of itself. As for your impossible equation, 
 
 "I don't quite understand you," said the doctor curiously. He was intensely interested in the theories and beliefs of his new friend, which, as the reader may have observed, he only opposed to draw out more fully.
 
-"Why, you know, of course, that communism is the theory of the Church," said Mr. Clare."Marion Crawford brings that out very well in his 'Saracinesca';[^Crawford] but Crawford&mdash;I hope I don't do him injustice&mdash;seems to me a dilettante in religion and politics, who doesn't believe any thing deeply enough to fight for it."
+"Why, you know, of course, that communism is the theory of the Church," said Mr. Clare. "Marion Crawford brings that out very well in his 'Saracinesca';[^Crawford] but Crawford&mdash;I hope I don't do him injustice&mdash;seems to me a dilettante in religion and politics, who doesn't believe any thing deeply enough to fight for it."
 
 [^Crawford]: Popular American novelist Frances Marion Crawford was a writer of historical fiction. *Saracinesca*, set during the Roman Empire at the time of Christ, was published in 1887.
 
@@ -4185,9 +4170,9 @@ possession, in spite of the objurgations levelled against him. He had borrowed i
 
 "Like King Arthur's Round Table," said Freddy eagerly.
 
-"Just so; next time, boys, we'll bring Tennyson along, and Freddy shall read to us, if he will, about the knights.[^idyls] He reads wonderfully well; as well as he paints. But now I'll tell you some of the story of it."
+"Just so; next time, boys, we'll bring Tennyson along, and Freddy shall read to us, if he will, about the knights.[^idylls] He reads wonderfully well; as well as he paints. But now I'll tell you some of the story of it."
 
-[^idyls] Idylls of the King (1859-1885), by Alfred, Lord Tennyson, was a retelling of the  legend of King Arthur in the form of twelve narrative poems written in blank verse. They played a significant role in the revival of interest in the medieval period in  late-nineteenth century England and the US.
+[^idylls] Idylls of the King (1859-1885), by Alfred, Lord Tennyson, was a retelling of the  legend of King Arthur in the form of twelve narrative poems written in blank verse. They played a significant role in the revival of interest in the medieval period in  late-nineteenth century England and the US.
 
 Fritz scarcely listened to the story, he was so busy considering what was best to be done. Long before he could reach the street where he had seen them, the blue dress and the black coat would have vanished; besides, he had no legal or moral right to interfere, or even to suppose that what he had seen was anything more than honest "keeping company." Indeed, from any contrary supposition Fritz's honest soul revolted with all the strength of its own integrity; yet the secrecy observed,&mdash;for no one at "Prices" suspected that even an acquaintance existed between the two he had seen, and the man's reputation, which was none of the best, left no reason to suppose that he, at least, intended honorable marriage. "And it is so easy to deceive a girl," thought Fritz, grinding his teeth with secret rage. Just at this moment, something Mr. Clare was saying caught his attention.
 
@@ -4775,7 +4760,7 @@ When the Richardses had been left at their own door, and Mr. Clare and Louis wen
 
 "I don't think I am likely to believe either way," was the boy's reply. "You see, my father taught me to imitate Christ, to be a little Christ-child, as he called it, yet to think Christianity itself only a fairy tale. And I can't get over the habit," he added; "*I can't* think of Christ as alive now, or believe that He is God. To me He 
 
-<hr><p class="pagenum">Page 271</sup></p> 
+<hr><p class="pagenum"><sup>Page 271</sup></p> 
 
 is dead as King Arthur and Washington and Barbarossa are dead."
 
@@ -4855,7 +4840,7 @@ She rose to her feet,&mdash;for till then she had knelt beside his chair,&mdash;
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER I. {#bk3ch1}
+#### CHAPTER I. 
 
 ### "O'ER CRAG AND TORRENT, TILL THE NIGHT IS GONE."
 
@@ -5040,7 +5025,7 @@ When they had returned home, drenched and exhausted, Louis laid his hand upon Mr
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER II. {#bk3ch2}
+#### CHAPTER II. 
 
 ### "POLLY, PUT THE KETTLE ON."
 
@@ -5165,7 +5150,7 @@ They were married&mdash;of course, by Mr. Clare&mdash;in time to permit Franz's 
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER III. {#bk3ch3}
+#### CHAPTER III. 
 
 ### PANSIES.
 
@@ -5196,7 +5181,7 @@ There was a general smile at this, and after a few references to possible vengea
 
 unfortunates as are themselves slaves of rum, a larger number than is generally believed, I regret to say, though there is no way of getting at the exact figures. And they are much more difficult to get hold of; in fact, if we look at the relative numbers of male and female drunkards&mdash;as near as we can estimate them&mdash;the proportion of those reformed will be about five to one. That is, of twenty male drunkards, known and unknown, and the same num ber of females, in the first case we might hope to reform *all*, in the second only four."
 
-Mr. Clare sighed. "Let us hope," he said, "that a part, at least, of the sixteen, reform as they have sinned, in secret and unknown. And now," he turned to the evange"list, "I suppose there is no doubt that your meetings are well attended?"
+Mr. Clare sighed. "Let us hope," he said, "that a part, at least, of the sixteen, reform as they have sinned, in secret and unknown. And now," he turned to the evangelist, "I suppose there is no doubt that your meetings are well attended?"
 
 Sometimes a cat could get her whiskers in," replied that personage succinctly; "but there are plenty of back sliders."
 
@@ -5274,7 +5259,7 @@ something so dangerous in itself that it ought to be exercised only under the mi
 
 "But, considering the faith of the scientific world now, are ye sure they were entirely wrong?" asked the Father.
 
-"When oxygen and nitrogen produce water, or right doing produces a wrong effect, I shall be sure they were entirely *right*," replied Mr. Clare."But we wander from our subject. Take the time of the Religious Wars. Had religion lost its power *then* over the masses?"
+"When oxygen and nitrogen produce water, or right doing produces a wrong effect, I shall be sure they were entirely *right*," replied Mr. Clare. "But we wander from our subject. Take the time of the Religious Wars. Had religion lost its power *then* over the masses?"
 
 "The religion of Rome had, over a large part of them," said the Pastor.
 
@@ -5698,7 +5683,7 @@ own bread-winner and property-holder' will be equally a relic of barbarism," sai
 
 "Not in my time, sir, or yours."
 
-"Why, a certain English magazine I was reading, the other day, was disposed to assign it to the date of the Greek Kalends;[^Kalends] but I don't feel so sure about that," said Ernest Clare."Though it might be correct enough for England providing America had never been discovered. John Bull is a conservative animal; he has been beaten and pulled alternately by the horns and tail until he has learned to say 'A'; and is now fully persuaded that 'A' is the only correct thing to say; and that any one who says 'B' is revolutionary, immoral, and un-English. But Brother Jonathan, once he has learned to say 'A', is more than half prepared to say 'B' and will be positively eager about the remainder of the alphabet; so the coming of the Coq-cigrues[^coq] may be nearer than we dream," he ended, smiling.
+"Why, a certain English magazine I was reading, the other day, was disposed to assign it to the date of the Greek Kalends;[^Kalends] but I don't feel so sure about that," said Ernest Clare. "Though it might be correct enough for England providing America had never been discovered. John Bull is a conservative animal; he has been beaten and pulled alternately by the horns and tail until he has learned to say 'A'; and is now fully persuaded that 'A' is the only correct thing to say; and that any one who says 'B' is revolutionary, immoral, and un-English. But Brother Jonathan, once he has learned to say 'A', is more than half prepared to say 'B' and will be positively eager about the remainder of the alphabet; so the coming of the Coq-cigrues[^coq] may be nearer than we dream," he ended, smiling.
 
 [^Kalends]: Metaphorically, dates that would never occur. The calends was the beginning of the lunar cycle (the new moon(), which marked the beginning of the month and was a date that the Greeks did not observe.
 
@@ -5710,7 +5695,7 @@ own bread-winner and property-holder' will be equally a relic of barbarism," sai
 
 It was evident that Freddy and the Ark of the Covenant would soon part for this world, though he lay still, propped with pillows, upon its friendly bosom, white and shadowy, only the great brown eyes full of life and gladness. Freddy had had a long attack of lung-fever, from which, though the disease had been broken, he had no strength to rally. For a time he had seemed better, then he began to fade, slowly and painlessly, like a flower; but also with conscious gladness, impossible to a flower. He welcomed his friend with a smile and feeble outstretched 
 
-<hr><p class="pagenum">Page 327</sup></p> 
+hr><p class="pagenum"><sup>Page 327</sup></p> 
 
 hand; but not till Dr. Richards had left them came the whisper, "Have you seen her, Louis? Isn't she pretty?"
 
@@ -5832,7 +5817,7 @@ Mr. Clare was silent; he saw that the man's heart was full to overflowing, and t
 
 <hr><p class="pagenum"><sup>Page 333</sup></p> 
 
-doctor."It would be a different world if one like Jesus Christ had made and governed it."
+doctor. "It would be a different world if one like Jesus Christ had made and governed it."
 
 "The mystery of pain, sorrow, and sin," said Mr. Clare, "I do not wonder that it baffles you; yet one who is a father ought to recognize the chastisements of *his* Father, I think."
 
@@ -6074,7 +6059,7 @@ Louis called comfortable. She had not been prepared for this when she set hersel
 He turned away, he walked steadily to the door and down the stairs; she ran to the window, and watched him down the moonlit street, but he never looked back: and when the last echo of his footsteps had died away, the poor, lonely, spoiled child flung herself face downwards on the floor, and cried in good earnest.
 
 <hr>
-<button class="btn btn-secondary btn-lg iframebutton" id="b346" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/346/mode/1up" onclick="loadFrame(this)" data-iframe="frame346">Page 23 • click to view</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b346" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/346/mode/1up" onclick="loadFrame(this)" data-iframe="frame346">Page 346 • click to view</button> 
 <iframe style="display: none" id="frame346" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <p style="margin-top:2cm;"></p>
@@ -6263,7 +6248,7 @@ and gold, and studded here and there with infinitesimal jewels.
 
 "Very immoral of him to take advantage of a man's necessities," said the elder Dare quietly.
 
-"Well, you know, sailors are a rough lot; one can't expect very fine feelings from them. At all events, there isn't such a set of cups in the world. They have never been used before, and I don't know when I shall care to use them again.".
+"Well, you know, sailors are a rough lot; one can't expect very fine feelings from them. At all events, there isn't such a set of cups in the world. They have never been used before, and I don't know when I shall care to use them again."
 
 "Except on a similar auspicious occasion," whispered the bachelor uncle in Pinkie's pretty ear. She made some audaciously saucy reply without half hearing him; for her eyes were riveted upon her father, who was at the moment reading a telegram which had just been handed him by a servant.
 
@@ -6293,7 +6278,7 @@ Frank whistled thoughtfully.
 
 "If these&mdash;people weren't in the house, I'd be off on the next train; but it would never do to show my hand like that. There's the midnight express, though; I shall make that, I think; and, in the mean time, I want you to wire Fletcher for me. Take it yourself to the office; and listen that it is sent correctly; for it must be in cipher, and the mistake of a letter would be fatal. I'll make excuses for you in the parlor; what shall I say?"
 
-Frank thought for a moment."Rumors of a riot down town," he said then, "and I've gone to look into it. He may swallow *that*."
+Frank thought for a moment. "Rumors of a riot down town," he said then, "and I've gone to look into it. He may swallow *that*."
 
 <hr><p class="pagenum"><sup>Page 359</sup></p>
 
@@ -6325,7 +6310,7 @@ he said coolly.[^Horatius] "The only thing I see is to swim for it."
 
 Fritz grinned in unwilling admiration. "It's your only chance if the current don't get away with you," he said. "But, I say, you know who I am, and that any other man but me would hold your head under water, till the devil was washed out of you?"
 
-"Any other man, and you included, might have some trouble about that," replied Frank, as he took off his coat, kicked off his shoes, and fastened the precious telegram inside his hat."However, you ought not to bear malice for an affair in which I had decidedly the worst of it," he added. "Come, you're a fine fellow, and I am heartily sorry I ever interfered with you. Will you shake hands on it?"
+"Any other man, and you included, might have some trouble about that," replied Frank, as he took off his coat, kicked off his shoes, and fastened the precious telegram inside his hat. "However, you ought not to bear malice for an affair in which I had decidedly the worst of it," he added. "Come, you're a fine fellow, and I am heartily sorry I ever interfered with you. Will you shake hands on it?"
 
 It must be confessed that Fritz hesitated before he could clasp the hand held out to him.
 
