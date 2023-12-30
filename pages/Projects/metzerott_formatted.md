@@ -679,7 +679,11 @@ Mrs. Randolph was furious, and slightly undignified.
 
 "Yes," she said softly; then her eyes suddenly flashed, her cheeks grew crimson; she turned upon her sister with the air of a lioness defending her young.
 
-"Do you suppose I have not seen," she cried, "how you<hr><p class="pagenum"><sup>Page 37</sup></p> wish me to marry him while pretending to oppose it? I am ashamed for you, Jennie, ashamed to put your motive into words, because you are my brother's wife. But don't delude yourself with the idea that it is your work; I would have given up the money in any case rather than force him to act against what he believes to be right; and I love him so dearly that I had rather endure misery, cold, and hunger with him than to be a queen without him."
+"Do you suppose I have not seen," she cried, "how you
+
+<hr><p class="pagenum"><sup>Page 37</sup></p> 
+
+wish me to marry him while pretending to oppose it? I am ashamed for you, Jennie, ashamed to put your motive into words, because you are my brother's wife. But don't delude yourself with the idea that it is your work; I would have given up the money in any case rather than force him to act against what he believes to be right; and I love him so dearly that I had rather endure misery, cold, and hunger with him than to be a queen without him."
 
 Here, woman-like, her vehemence resolved itself into a burst of tears, and, turning, she threw herself into the arms that were open to receive her.
 
