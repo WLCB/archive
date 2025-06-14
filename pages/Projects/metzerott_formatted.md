@@ -383,7 +383,7 @@ childlike, innocent directness. Perhaps little Dora was scarcely the beauty that
 
 And Dora, though she laughed and blushed still deeper, found it most convenient not to inquire his exact meaning.
 
-[^1]: 1: The Commune, represented most prominently for Karl Marx by the Paris commune (March 18-May 28 1871), constituted a society liberated from capitalism and led by a "dictatorship of the proletariat." The Commune was an intermediate state between capitalism and the collective ownership of the means of production that exemplified communism.
+[^1]: 1: The Commune, represented most prominently for Karl Marx by the Paris commune (March 18-May 28 1871), constituted a society liberated from capitalism and led by what Marx described as a "dictatorship of the proletariat." The Commune was an intermediate state between capitalism and the collective ownership of the means of production that exemplified communism.
 
 [^2]: 2: In the German folktale-Romance Undine, by Friedrich de la Motte Fouqué (1811), the knight (Ritter is German for “knight”) Huldbrand encounters the water-sprite Undine in  the Enchanted Forest, falls in love with her, and marries her, under the condition that she be permitted to return to her mermaid shape on Saturdays. The novella was widely translated during the 19th century and adapted for the ballet and the opera. 
 
@@ -1216,10 +1216,7 @@ money enough, or so people say, and making more would only lower the value of wh
 
 "You wouldn't do that," said Louis confidently.
 
-"Nor the millionnaires sha'n't much longer," said Metzerott. "When we get the Commune,[^Commune] Louis, every man who has more than he needs&mdash;yes, and we'll cut his 'needs' down pretty close, too&mdash;will have to divide with his poor neighbors."
-
-[^Commune]: The Commune, represented most prominently for Karl Marx by the Paris Commune (March 18 - May 28, 1871), constituted a society liberated from capitalism and led by what Marx described as a "dictatorship of the proletariat." The Commune was an intermediate state between capitalism and the collective ownership of the means of production that exemplified communism.
-
+"Nor the millionnaires sha'n't much longer," said Metzerott. "When we get the Commune, Louis, every man who has more than he needs&mdash;yes, and we'll cut his 'needs' down pretty close, too&mdash;will have to divide with his poor neighbors."
 
 "What is &rsquo;vide?" asked Louis, who had often heard of the Commune.
 
