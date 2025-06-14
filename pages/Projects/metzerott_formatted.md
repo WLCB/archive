@@ -1196,7 +1196,7 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 ### "&rsquo;VIDING."
 
 <p style="margin-top:1cm;"> </p>
-"PAPA!" said Louis, one autumn evening. The child just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Metzerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
+"PAPA!" said Louis, one autumn evening. The child, just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Metzerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
 
 "Well," he said.
 
@@ -1216,7 +1216,10 @@ money enough, or so people say, and making more would only lower the value of wh
 
 "You wouldn't do that," said Louis confidently.
 
-"Nor the millionnaires sha'n't much longer," said Metzerott. "When we get the Commune, Louis, every man who has more than he needs&mdash;yes, and we'll cut his 'needs' down pretty close, too&mdash;will have to divide with his poor neighbors."
+"Nor the millionnaires sha'n't much longer," said Metzerott. "When we get the Commune,[^Commune] Louis, every man who has more than he needs&mdash;yes, and we'll cut his 'needs' down pretty close, too&mdash;will have to divide with his poor neighbors."
+
+[^Commune]: The Commune, represented most prominently for Karl Marx by the Paris Commune (March 18 - May 28, 1871), constituted a society liberated from capitalism and led by what Marx described as a "dictatorship of the proletariat." The Commune was an intermediate state between capitalism and the collective ownership of the means of production that exemplified communism.
+
 
 "What is &rsquo;vide?" asked Louis, who had often heard of the Commune.
 
@@ -1262,7 +1265,7 @@ It was of tin, painted in gay colors, and it spun upon the floor, upon being wou
 
 He leaned his chin upon his two plump hands, as he sat tailor fashion[^tailor] on the floor, and delivered himself up to contemplation of the top, which lay just where it had toppled over from its last spin, as if there were inspiration in its gaudy hues. Presently he looked up brightly. 
 
-[^tailor]: Tailors through the twentieth century sat cross-legged on tables in front of windows, to take advantage of the light and also to keep fabric off of floors and other work surfaces. The [Put This On](https://putthison.com/savile-row-1957-my-friend-crimsonsox-found-some/) website has several photographs of tailors on London's famed Savile Row engaging in this practice.
+[^tailor]: Tailors through the twentieth century sat cross-legged on tables in front of windows in order to take advantage of the light and also to keep fabric off of floors and other work surfaces. The [Put This On](https://putthison.com/savile-row-1957-my-friend-crimsonsox-found-some/) website has several photographs of tailors on London's famed Savile Row engaging in this practice.
 
 "I know," he said, "we can spin it togevver, and it can be bofe of ours. That's the only way to &rsquo;vide a top!"
 
