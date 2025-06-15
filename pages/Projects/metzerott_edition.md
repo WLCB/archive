@@ -975,7 +975,7 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 
 ###### "&rsquo;VIDING."
 
-"PAPA!" said Louis, one autumn evening. The child just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Met zerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
+"PAPA!" said Louis, one autumn evening. The child, just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Met zerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
 
 "Well," he said.
 
