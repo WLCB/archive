@@ -6566,4 +6566,6 @@ Mr. Dare is still rich and prosperous.
 
 Annie Rolf has never married.
 
+<hr><p class="pagenum">[END OF NOVEL]</p>
+<hr>
 ## Notes
