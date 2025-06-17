@@ -31,8 +31,6 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 }
 </script>
 
-<p class="pagenum">&#160;</p>
-
 # METZEROTT, SHOEMAKER
 
 "Omne vivum ex vivo."
