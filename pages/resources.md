@@ -8,6 +8,11 @@ permalink: /resources.html
 ***
 
 ## Team Publications
+
+Cole, Jean Lee. "*Legacy* Profile: Katharine Pearson Woods (1853-1923) and Excerpt from *Metzerott, Shoemaker* by Katharine Pearson Woods." *Legacy: A Journal of American Women Writers* 42.1 (2025): 76-97.
+
+Cole, Jean Lee, and Elizabeth James. "[Methodologies for Exploring Unknown Archives](https://scholarlyediting.org/issues/42/methodologies-for-exploring-unknown-archives/)." *Scholarly Editing* 42 (2025).
+
 Cole, Jean Lee. "[The Celebrities of John Street](https://boltonhillmd.org/the-celebrities-of-john-street/)." *Bolton Hill Bulletin*, July/August 2018. 
 
 Cole, Jean Lee (with Sydney Johnson and Marina Fazio). "[Christine Ladd-Franklin, a Scientist from Bolton Hill](http://bulletin.boltonhillmd.org/april-2018/christine-ladd-franklin-a-scientist-from-bolton-hill/)." *Bolton Hill Bulletin*, April 2018.
