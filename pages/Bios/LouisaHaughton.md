@@ -14,6 +14,7 @@ Louise Courtauld Osburne Haughton was born in Cheshire, England, in 1866, but he
 Muller, Amelia. “Carriage-Trade Modiste: Magician With Shears.” *Baltimore Sun*, 29 Feb. 1948.
 
 "Mr. H. O. Haughton Dead.” Baltimore Sun, 27 Feb. 1909: 9.
+
 Shepherd, Henry E. *Representative Authors of Maryland. The Representative Authors of Maryland*, 1911.
 
 Leonard, John William. *Woman's Who's Who of America*. The American Commonwealth Company, 1914.
