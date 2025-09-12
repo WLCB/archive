@@ -7,15 +7,15 @@ permalink: /AnnieSioussat.html
 ## Annie Middleton Leakin Sioussat (Mrs. Albert) (1856-1942)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/AnnieSioussat.jpg" alt="Annie Leakin Sioussat"></div>
 
-Annie Middleton Leakin Sioussat, born in 1856 in Georgetown, D.C., was a historian, author, and daughter of the Rev. George Armistead Leakin, who served as a chaplain in the U.S. Army and was a well-known Episcopal priest during the early nineteenth century. Sioussat was a historian for the Maryland Society of the Colonial Dames of America, and also served as the president of the Maryland branch of the Women’s Auxiliary of the Protestant Episcopal Church for thirty years. Sioussat's notes from her historical work with the Society of the Colonal Dames of America were published in two volumes, Old Manors in Colonial Maryland (1911) and Old Baltimore (1931). She passed away at the age of 92 in 1942 and is buried in the All Saints Episcopal Church Cemetery in Reisterstown, MD.
+Annie Middleton Leakin Sioussat, born in 1856 in Georgetown, D.C., was a historian, author, and reformer. Her book *Old Manors in the Colony of Maryland* (1913) traced the establishment of wealthy estates in Maryland on indigenous lands, while in *Old Baltimore* (1931), Sioussat vividly depicted the relationship between one of Baltimore's most storied women, Elizabeth Patterson, and her husband Jerôme Bonaparte, brother of Napoleon Bonaparte. Sioussat was a founding member of the WLCB and led the women in organizing meetings and other activities. She also was a historian for the Maryland Society of the Colonial Dames of America, and also was a member of the Women’s Auxiliary of the Protestant Episcopal Church, the American Historical Association, the Ennglish-Speaking Union, Civil Serveice Reform, and the Maryland Forestry Assosication. 
 
 ### Sources
 “[Annie Middleton Leakin Sioussat (1856-1942)](http://www.findagrave.com/memorial/156668536/annie-middleton-sioussat).” Find A Grave.
 
-“[Leakin-Sioussat Papers, c.1650-C.1960](http://www.mdhs.org/findingaid/leakin-sioussat-papers-c1650-c1960-ms-1497)." MS 1497. Maryland Historical Society, Mar. 1999.
+“[Leakin-Sioussat Papers, c.1650-C.1960](http://www.mdhs.org/findingaid/leakin-sioussat-papers-c1650-c1960-ms-1497)." MS 1497. Maryland Center for History and Culture.
 
 ### Contributed by
 
-Jonathan Flink; Jean Lee Cole
+Madeline Pikus; Jonathan Flink
 
 [View Sioussat's Works](https://wlcb.github.io/archive/browse.html#sioussat)
