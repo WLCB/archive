@@ -7,7 +7,7 @@ permalink: /ElizabethLatimer.html
 ## Elizabeth Wormeley Latimer (Mrs. Randolph) (1822-1904)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/ElizabethLatimer.jpg" alt="Elizabeth Wormeley Latimer"></div>
 
-Mary Elizabeth Wormeley Latimer was born in London and died in Baltimore, Maryland. Her family traveled extensively throughout Europe and the United States, and she was privately educated. She married Randolph Brandt Latimer in 1856, and moved with him to Baltimore, where she spent the rest of her life. Latimer is best known for her writings on contemporary European history, especially for her translations and her works focusing on the nineteenth century in various Western and Eastern European countries. Latimer was an enthusiastic member of the Woman’s Literary Club of Baltimore from its genesis in 1890 until her death in 1904. She was often praised by the Club members for her historical and translation work.
+Mary Elizabeth Wormeley Latimer traversed nations, centuries, and genres in her writing. Originally from London, Latimore moved to New England for schooling, where her love of literature flourished. She became a Baltimore resident upon her marriage to Randolph Brandt Latimer in 1856. Latimer is best known for her weighty series on nineteenth-century European history, including *France in the Nineteenth Century* and *England in the Nineteenth Century*. These works give equal play to both men and women, princes and princesses. Latimer also published prolifically in magazines and write several novels. These works frequently depict women navigating conflicting gender roles. Latimer was an enthusiastic member of the Woman’s Literary Club of Baltimore from its genesis in 1890 until her death in 1904. She was often praised by the Club members for her historical and translation work.
 
 ### Sources
 
@@ -19,6 +19,6 @@ Shepherd, Henry Elliot. *The Representative Authors of Maryland*. New York: Whit
 
 ### Contributed by
 
-Ellen Roussel
+Ellen Roussel; Jean Lee Cole
 
 [View Latimer's Works](https://wlcb.github.io/archive/browse.html#latimer)
