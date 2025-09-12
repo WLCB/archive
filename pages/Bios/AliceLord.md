@@ -21,4 +21,8 @@ Charles W. Lord
 
 Cole, Jean Lee. “[Mrs. Alice Emma Lord](https://www.findagrave.com/memorial/181853380/alice-emma-lord).” Find a Grave. July 28th, 2017. Accessed May 1, 2018.
 
+### Contributed by
+
+Kaitlyn Kutch; Jean Lee Cole
+
 [View Lord's Works](https://wlcb.github.io/archive/browse.html#alice)
