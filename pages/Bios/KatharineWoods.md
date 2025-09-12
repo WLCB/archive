@@ -11,7 +11,15 @@ Katharine Pearson Woods was born in 1853 in Wheeling, Virginia (as the state was
 
 ### Sources
 
+Burr, Nelson. "Katharine Pearson Woods." *Notable American Women, 1607–1950: A Biographical Dictionary*, ed. Edward T. James et al., vol. 3, Harvard UP, 1971, pp. 656–57.
+
+Cole, Jean Lee. "Katharine Pearson Woods (1853-1923)." *Legacy: A Journal of American Women Writers* 42.1 (2025): 76-89. 
+
+Dorsey, Hester Crawford. "[The Author of Metzerott, Shoemaker](https://babel.hathitrust.org/cgi/pt?id=mdp.39015021269249&view=1up&seq=385&q1=dorsey)." *Lippincott's*, Sept. 1890: 375-78.
+
 [Harpers.org profile](https://harpers.org/author/katherinepearsonwoods/). 
+
+Reiche, Fanny K. "Katharine Pearson Woods." *Library of Southern Literature Vol. 13*, ed. Edwin Anderson Alderman et al., Martin Hoyt, 1909, pp. 5979-99.
 
 Also see entry on Woods in [Encyclopedia.com](http://www.encyclopedia.com/arts/news-wires-white-papers-and-books/woods-katharine-pearson).
 
