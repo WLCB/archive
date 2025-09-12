@@ -19,4 +19,6 @@ Octavia Williams Bates, ["Municipal Suffrage for Women in Michigan,"](http://dig
 
 “A Detroit Portia.” *Atchinson Daily Globe*, June 23, 1899. 
 
-Contributor: Cynthia Requardt
+### Contributed by
+
+Cynthia Requardt
