@@ -18,4 +18,6 @@ Pearl occasionally presented papers as a member of the Committee on Essays but w
 
 “Mrs. Pearl D. Uhler,” *Baltimore Sun* November 12, 1947, p. 9.
 
-Contributor: Cynthia Requardt
+### Contributed by 
+
+Cynthia Requardt
