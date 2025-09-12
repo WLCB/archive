@@ -4,10 +4,10 @@ layout: page
 permalink: /MaryTiernan.html
 ---
 
-## Mary Spear Tiernan (1835?-1891)
+## Mary Spear Tiernan (c. 1836-1891)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/MaryTiernan.jpg" alt="Mary Spear Tiernan"></div>
 
-Despite marrying into a prominent Maryland family, the birthdate of Mary Spear Nicholas Tiernan is not definitely known. Born in Richmond, Virginia. she moved to Baltimore after her marriage to Charles B. Tiernan. Like many women in the era, she did not attend college, but she was a successful novelist; her natural wit was praised as being equivalent to a scholarly education. Tiernan was a founding member of the WLCB and was initially elected to the Executive Committee. After her death in 1891, the Club continued to honor Tiernan, decorating her grave each year on All Souls' Day and reading her unpublished manuscripts at later meetings. Tiernan’s work strongly promotes Lost Cause ideology, while also exploring the conventions of romantic relationships in her day. 
+Mary Spear Tiernan shared many commonalities with other women writers of her generation. She had genteel origins: her fother had a long career as the US District Attorney of Virginia, her grandfather was a judge, and her great-grandfather served as state treasurer of Virginia. Born in Richmond, Virginia, Tiernan and her family were aligned with the Confederacy during the American Civil War. She was employed in the Confederate treasury department in Richmond, while two of her brothers were Confederate soldiers. She moved to Baltimore after her marriage to Charles B. Tiernan in 1873. Tiernan did not attend college, but she was a successful novelist; her natural wit was praised as being equivalent to a scholarly education. Tiernan was a founding member of the WLCB and was initially elected to the Executive Committee. After her death in 1891, the Club continued to honor Tiernan, decorating her grave each year on All Souls' Day and reading her unpublished manuscripts at later meetings. Tiernan’s work strongly promotes Lost Cause ideology, while also exploring the conventions of romantic relationships in her day. 
 
 ### Sources
 
@@ -19,6 +19,6 @@ Lantz, Emily Emerson. "Maryland Heraldry," *Baltimore Sun*, January 1, 1905.
 
 ### Contributed by
 
-Marina Fazio
+Marina Fazio; Stephen Barrett
 
 [View Tiernan's Work](https://wlcb.github.io/archive/browse.html#mary%20spear)
