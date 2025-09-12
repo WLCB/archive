@@ -11,4 +11,8 @@ Her book *How Sammy Went to Coral-Land* demonstrates her ability to capture the 
 
 Atwater’s writing was used as textbooks and readers in New England states, and were positively received by educational journals such as the *Kindergarten Review*.
 
+### Contributed by
+
+Monica Malouf
+
 [View Atwater's Works](https://wlcb.github.io/archive/browse.html#atwater)
