@@ -14,4 +14,8 @@ Annie Middleton Leakin Sioussat, born in 1856 in Georgetown, D.C., was a histori
 
 “[Leakin-Sioussat Papers, c.1650-C.1960](http://www.mdhs.org/findingaid/leakin-sioussat-papers-c1650-c1960-ms-1497)." MS 1497. Maryland Historical Society, Mar. 1999.
 
+### Contributed by
+
+Jonathan Flink; Jean Lee Cole
+
 [View Sioussat's Works](https://wlcb.github.io/archive/browse.html#sioussat)
