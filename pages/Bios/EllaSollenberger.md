@@ -28,5 +28,8 @@ Lawrence Sollenberger
 
 Miller, Mary Hall. "Ella McCord Morrow Sollenberger (Nov 1876–1951)." [Find A Grave](https://www.findagrave.com/memorial/91114723/adaline-elizabeth-vanderpoel%20).
 
+### Contributed by
+
+Megan Hultberg
 
 [View Sollenberger's Works](https://wlcb.github.io/archive/browse.html#sollenberger)
