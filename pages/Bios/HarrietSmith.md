@@ -7,7 +7,7 @@ permalink: /HarrietSmith.html
 ## Harriet Lummis Smith (???? - 1947)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/HarrietSmith.jpg" alt="Harriet Lummis Smith"></div>
 
-Born in Auburndale, Massachussets, Harriet Lummis Smith was a WLCB club member from 1909 until at least 1919. Smith was the daughter of Jennie Brewster Lummis and Henry Lummis Smith, who had been the head of the Greek department at Lawrence College in Appleton, Wisconsin, where Lummis received her BA degree in 1889. She went on to teach high school and worked as an editor before eventually becoming a successful novelist and short story writer. She joined the WLCB in December 1907 and served in various leadership positions before being elected president of the club in the 1914-1915 season. She was a prolific writer of short stories and became known for authoring installments in the Pollyanna and Friendly Terrace/Peggy Raymond series of novels for girls. She was living in Philadelphia when she passed away on May 9, 1947 but is buried in Baltimore.
+Smith recognized the paucity of literature written specifically for young women and girls, and she made it her mission to write exciting and thought-provoking literature specifically for them. She was a prolific writer of short stories and became known for authoring installments in the Pollyanna and Friendly Terrace/Peggy Raymond series of novels for girls. Born in Auburndale, Massachussets, Harriet Lummis Smith was a WLCB club member from 1909 until at least 1919. Smith was the daughter of Jennie Brewster Lummis and Henry Lummis Smith, who had been the head of the Greek department at Lawrence College in Appleton, Wisconsin, where Lummis received her BA degree in 1889. She went on to teach high school and worked as an editor before eventually becoming a successful novelist and short story writer. She joined the WLCB in December 1907 and served in various leadership positions before being elected president of the club in the 1914-1915 season. She was living in Philadelphia when she passed away on May 9, 1947 but is buried in Baltimore.
 
 ### Relation
 
@@ -27,6 +27,6 @@ Reiche, Fanny K. “Baltimore Is The Home Of Many Conspicuous Woman Writers.” 
 
 ### Contributed by
 
-Jonathan Flink; Jean Lee Cole
+Jonathan Flink; Tara Brooky
 
 [Read Smith's Work](https://wlcb.github.io/archive/browse.html#harriet)
