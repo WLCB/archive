@@ -17,4 +17,8 @@ John C. Wrenshall
 
 "Local Meetings and Notices." *Journal of American Folklore* 11 (Sept. 1898): 239.
 
+### Contributed by
+
+Jean Lee Cole
+
 [View Wrenshall's Works](https://wlcb.github.io/archive/browse.html#letitia)
