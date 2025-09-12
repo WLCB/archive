@@ -16,4 +16,9 @@ Caroline Canfield Bullock was born in Baltimore, the daughter of a successful si
 Her family were long-time members of the Franklin Street Presbyterian Church, and it was there that Caroline met her husband Waller R. Bullock (1834-1870), son of the church pastor. The Bullocks belonged to a prominent Kentucky family, and Waller had fought for the Confederacy before settling in Baltimore. The Bullocks’ marriage was short-lived­—Waller died ten months after they married in 1870—but Caroline continued to refer to herself in Club documents as Mrs. Waller Bullock throughout her membership. Caroline’s support of fundraising for Confederate veterans was likely a tribute to her husband.
 
 ### Sources
+
 Bullock, Caroline Canfield. “[Preface.](https://babel.hathitrust.org/cgi/pt?id=miun.agy7782.0001.001;view=1up;seq=7%20)” *Folk-Lore from Maryland*. New York: American Folk-Lore Society, 1925.
+
+### Contributed by
+
+Cynthia Requardt
