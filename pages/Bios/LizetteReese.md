@@ -7,7 +7,9 @@ permalink: /LizetteReese.html
 ## Lizette Woodworth Reese (1856-1935)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/LizetteReese.jpg" alt="Lizette Woodworth Reese"></div>
 
-Lizette Woodworth Reese was a nationally acclaimed poet whose work H. L. Mencken would call “one of the imperishable glories of American literature.” Reese spent her career as an English teacher in the Baltimore public schools, but found her truest passion in poetry. In 1874, her first poem was published in Southern Magazine and was followed by the publication of 12 poetry collections, 2 memoirs, and a novel. Reese was elected the poet laureate of Maryland by the General Federation of Women’s Clubs, received an honorary doctorate from Goucher College, and served as the honorary president of the Poetry Society of Maryland. She was the honorary president of the Edgar Allan Poe Society of Baltimore, and a co-founder of the Woman’s Literary Club of Baltimore, where she served as chair of the modern poetry committee from 1890 until her death in 1935.
+The best-known and most widely respected of the WLCB's many published authors, Lizette Woodworth Reese was a nationally acclaimed poet whose work H. L. Mencken would call “one of the imperishable glories of American literature.” In 1874, her first poem was published in Southern Magazine and was followed by the publication of 12 poetry collections, 2 memoirs, and a novel. Reese was elected the poet laureate of Maryland by the General Federation of Women’s Clubs, received an honorary doctorate from Goucher College, and served as the honorary president of the Poetry Society of Maryland. She was the honorary president of the Edgar Allan Poe Society of Baltimore, and a co-founder of the Woman’s Literary Club of Baltimore. Her consistent involvement in club activities was difficult to match; she served as chair of the modern poetry committee from the Club's founding in 1890 until her death in 1935.
+
+A teacher by trade and a poet at heart, Reese reportedly wrote much of her poetry while waiting for the bus to take her to her job teaching English in the Baltimore public schools. Her love of nature was inspired by her home in Waverly neighborhood of Baltimore, a scenic and pastoral setting juxtaposed with an industrializing world. Despite the widespread acclaim with which her poetry was received, she placed her last published poems in a neighborhood newsletter, *Gardens, Houses, and People*, which was published by the Roland Park Company. The newsletter's editor wrote in his introduction to her poems that Reese had indicated that she "wanted ... finally to reach the direct attention of our readers, many of whom were her warm friends," which "touched us very deeply."
 
 ### Sources
 
@@ -19,6 +21,6 @@ Lizette Woodworth Reese was a nationally acclaimed poet whose work H. L. Mencken
 
 ### Contributed by
 
-Katie Shiber; Hunter Flynn
+Katie Shiber; Claire McElduff; Jean Lee Cole
 
 [View Reese's Works](https://wlcb.github.io/archive/browse.html#lizette)
