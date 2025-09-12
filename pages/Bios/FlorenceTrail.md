@@ -19,4 +19,8 @@ Baldwin, Frances E. “New Honors For Woman Writer,” *Baltmore Sun*, Oct. 14, 
 
 "Purely Personal," *The News* (Frederick, MD), April 28, 1916. 
 
+### Contributed by
+
+Marina Fazio
+
 [View Trail's Work](https://wlcb.github.io/archive/browse.html#trail)
