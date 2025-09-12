@@ -19,4 +19,8 @@ Shepherd, Henry E. *Representative Authors of Maryland. The Representative Autho
 
 Leonard, John William. *Woman's Who's Who of America*. The American Commonwealth Company, 1914.
 
+### Contributed by 
+
+Hunter Flynn
+
 [View Haughton's Works](https://wlcb.github.io/archive/browse.html#haughton)
