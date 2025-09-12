@@ -21,7 +21,7 @@ Charles W. Lord
 
 “A Baltimore Lady’s Interesting Book-Lamb and Coleridge.” *Baltimore Sun*, Dec. 7, 1893.
 
-Cole, Jean Lee. “[Mrs. Alice Emma Lord](https://www.findagrave.com/memorial/181853380/alice-emma-lord).” Find a Grave. July 28th, 2017. Accessed May 1, 2018.
+“[Mrs. Alice Emma Lord](https://www.findagrave.com/memorial/181853380/alice-emma-lord).” Find a Grave. July 28th, 2017. Accessed May 1, 2018.
 
 ### Contributed by
 
