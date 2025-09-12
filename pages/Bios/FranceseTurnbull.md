@@ -13,8 +13,8 @@ Francese Hubbard Litchfield Turnbull was born in Utica, New York in 1845. She wa
 
 Lawrence Turnbull
 
-### Sources
+### Contributed by
 
-Requardt, Cynthia. "Biographical Note." Unpublished MS.
+Jill Fury, Cynthia Requardt
 
 [View Turnbull's Work](https://wlcb.github.io/archive/browse.html#francese)
