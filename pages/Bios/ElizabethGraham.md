@@ -22,4 +22,8 @@ Lantz, Emily Emerson. “Mother of Women's Clubs in Maryland Finds Rest after an
 
 Leonard, John William. *Woman's Who's Who of America*. American Commonwealth Company, 1914.
 
+### Contributed by
+
+Hunter Flynn
+
 [View Graham's Works](https://wlcb.github.io/archive/browse.html#Elizabeth%20Turner)
