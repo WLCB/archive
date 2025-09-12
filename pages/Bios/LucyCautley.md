@@ -19,4 +19,8 @@ Confederate States of America. *[Minutes of the Twenty-Fourth Annual Convention 
 
 “[Lucy Randolph Daniel Cautley (1854-1937)](http://www.findagrave.com/memorial/177971815/lucy-randolph-cautley).” Find A Grave. Accessed May 1, 2018.
 
+### Contributed by
+
+Tara Brooky
+
 [View Cautley's Works](https://wlcb.github.io/archive/browse.html#cautley)
