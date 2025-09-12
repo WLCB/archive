@@ -21,4 +21,6 @@ Lantz, Emily. “Frocks and Frills and Woman’s Will.” *Baltimore Sun*, Janua
 
 Hollins, Annie. “Crossing an Alpine Glacier.” *Baltimore Sun*, August 12, 1901, p. 10.
 
-Contributor: Cynthia Requardt
+### Contributor
+
+Cynthia Requardt
