@@ -19,4 +19,8 @@ Ward, Robert L. "[Family: Whitney, Milton (1823-1875)](http://wiki.whitneygen.or
 
 The American Folklore Society. "[Officers of the American Folklore Society](https://loyolanotredamelib.org/Aperio/WLCB/exhibits/show/club-bios/item/%20https%3A//books.google.com/books?id=agIpAAAAYAAJ)." *Journal of American Folklore* 9 (1898): 320.
 
+### Contributed by
+
+Clara Love
+
 [View Whitney's Works](https://wlcb.github.io/archive/browse.html#whitney)
