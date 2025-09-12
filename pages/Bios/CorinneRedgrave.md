@@ -19,4 +19,8 @@ DeWhitt Clinton Redgrave
 
 “Pageant Parts Secret." *Evening Sun*, Sept. 30, 1914: 12.
 
+### Contributed by
+
+Monica Malouf; Jean Lee Cole
+
 [View Redgraves' Works](https://wlcb.github.io/archive/browse.html#redgrave)
