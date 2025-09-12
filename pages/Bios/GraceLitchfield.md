@@ -17,4 +17,8 @@ Goodwin, Etta Ramsdell. “[The Literary Women of Washington](https://books.goog
 
 Livermore, Mary A., Willard, Frances E. *Woman of the Century: Fourteen Hundred-Seventy Biographical Sketches Accompanied by Portraits of Leading American Women in All Walks of Life*. Buffalo, Chicago, New York: Charles Wells Moulton, 1893. 465-466.
 
+### Contributed by
+
+Katie Shiber; Jean Lee Cole
+
 [View Litchfield's Works](https://wlcb.github.io/archive/browse.html#litchfield)
