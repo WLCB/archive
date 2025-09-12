@@ -17,4 +17,8 @@ Lantz, Emily Emerson. "Maryland Heraldry," *Baltimore Sun*, January 1, 1905.
 
 "Graves Decorated by Women," *Baltimore Sun*, November 3, 1900. 
 
+### Contributed by
+
+Marina Fazio
+
 [View Tiernan's Work](https://wlcb.github.io/archive/browse.html#mary%20spear)
