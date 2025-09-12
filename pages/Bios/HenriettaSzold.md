@@ -16,4 +16,8 @@ Arkush, Allan. "The Israeli-American Connection: Its Roots in the Yishuv, 1914-1
 
 Brown, Michael. "[Henrietta Szold](https://jwa.org/encyclopedia/article/szold-henrietta)." *Jewish Women: A Comprehensive Historical Encyclopedia*. 20 March 2009. Jewish Women's Archive.
 
+### Contributed by
+
+Megan Hultberg
+
 [View Szold's Works](https://wlcb.github.io/archive/browse.html#szold)
