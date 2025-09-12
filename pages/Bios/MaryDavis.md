@@ -17,3 +17,7 @@ She lived with her sister Rebecca Dorsey Davis on Lanvale Street and took classe
 “Affairs at the State Capital.” *Baltimore Sun*, January 16, 1882, p. 4.
 
 “[The Great Baltimore Fire from 137 West Lanvale Street, 1904](http://www.digitalmaryland.org/fire/collections/mhbf001/mhbf001l.html),” DigitalMaryland.org. 
+
+### Contributed by
+
+Jean Lee Cole
