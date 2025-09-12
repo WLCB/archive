@@ -24,7 +24,11 @@ At her death, the Woman’s Literary Club remembered Lydia Crane as “one of it
 ### Sources
 
 “[Lydia Crane](https://www.findagrave.com/memorial/36844101/lydia-crane),” Find a Grave. 
+
 "William Crane." *Appleton’s Cyclopedia of American Biography* (NY: D. Appleton, 1887), vol. 2.
+
 "[John M. Daniel](https://www.encyclopediavirginia.org/Daniel_John_M_1825-1865#start_entry)," Encyclopedia Virginia.
 
-Contributor: Cynthia Requardt
+### Contributed by
+
+Cynthia Requardt
