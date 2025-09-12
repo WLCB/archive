@@ -17,4 +17,8 @@ Shepherd, Henry Elliot. *The Representative Authors of Maryland*. New York: Whit
 
 "Elizabeth Wormeley Latimer." Wikimedia Foundation, Inc, Last edited 9 April 2018.
 
+### Contributed by
+
+Ellen Roussel
+
 [View Latimer's Works](https://wlcb.github.io/archive/browse.html#latimer)
