@@ -15,4 +15,8 @@ Katharine Pearson Woods was born in 1853 in Wheeling, Virginia (as the state was
 
 Also see entry on Woods in [Encyclopedia.com](http://www.encyclopedia.com/arts/news-wires-white-papers-and-books/woods-katharine-pearson).
 
+### Contributed by
+
+Jean Lee Cole
+
 [View Woods' Work](https://wlcb.github.io/archive/browse.html#woods)
