@@ -7,7 +7,11 @@ permalink: /GraceLitchfield.html
 ## Grace Denio Litchfield (1849-1944)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/GraceLitchfield.jpg" alt="Grace Denio Litchfield"></div>
 
-Grace Denio Litchfield was born in Brooklyn Heights, Brooklyn. She spent much of her life traveling throughout Europe, and resided in Washington DC upon her return to the United States. Though she suffered from chronic ill health, she became a prolific and successful author of both poetry and short fiction. Litchfield was an honorary member of the Woman’s Literary Club of Baltimore throughout the early years of the Club and became an active member in the 1914-1915 season. Litchfield was the sister of the Club’s first President, Francese Hubbard Litchfield Turnbull.
+They say that observation comes naturally to one with a restricted view. Grace Denio Litchfield was confined to her bed for much of her early life, and this vantage point gave her poetry a unique perspective. Born in Brooklyn, Litchfield may have been guided to literary pursuits by her sister, Frances Litchfield Turnbull, who was the first president of the WLCB. She spent much of her life traveling throughout Europe, and resided in Washington DC upon her return to the United States. Litchfield was a prolific and successful author of both poetry and short fiction. Litchfield was an honorary member of the Woman’s Literary Club of Baltimore throughout the early years of the Club and became an active member in the 1914-1915 season. 
+
+### Relation
+
+Frances Litchfield Turnbull
 
 ### Sources
 
@@ -19,6 +23,6 @@ Livermore, Mary A., Willard, Frances E. *Woman of the Century: Fourteen Hundred-
 
 ### Contributed by
 
-Katie Shiber; Jean Lee Cole
+Katie Shiber; Mary Cronin
 
 [View Litchfield's Works](https://wlcb.github.io/archive/browse.html#litchfield)
