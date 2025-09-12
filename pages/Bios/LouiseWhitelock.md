@@ -13,4 +13,8 @@ Louise Clarkson Whitelock was born in Baltimore in 1851, and was a founding memb
 
 George Whitelock
 
+### Contributed by
+
+Clara Love
+
 [View Whitelock's Work](https://wlcb.github.io/archive/browse.html#whitelock)
