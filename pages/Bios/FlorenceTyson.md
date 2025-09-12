@@ -3,9 +3,9 @@ title: Florence McIntyre Tyson
 layout: page
 permalink: /FlorenceTyson.html
 ---
-## Florence McIntyre Tyson
+## Florence McIntyre Tyson (1854-1926)
 
-While the birth and death dates of Florence McIntyre Tyson remain unknown, historical records paint a picture of an intelligently and worldly woman. Tyson was born in Hanover, Delaware and married Frederic C. Tyson of Maryland in 1872, and the couple had a son, Malcolm Van Vetchen Tyson, the following year. Tyson was a member of the Woman’s Literary Club of Baltimore from the 1893-1894 season until the 1909-1910 season, when she resigned due to her frequent absence from Baltimore. Tyson was the chairman of several committees while involved with the Club, including the Committee on Translations and the Committee on Foreign Languages. Her most notable published work is her translation of Russia by Theodore Gautier, which was warmly received by critics, the public, and the Club itself. Tyson also published several translations of short stories, as she spoke French, Italian, German, and Spanish. 
+Born in Hanover, Delaware in 1854, Florence McIntyre Tyson was intelligent and worldly. Tyson was a member of the Woman’s Literary Club of Baltimore from the 1893-1894 season until the 1909-1910 season, when she resigned due to her frequent absence from Baltimore. Tyson was the chairman of several committees while involved with the Club, including the Committee on Translations and the Committee on Foreign Languages. A woman of many languages, including French, Italian, German, and Spanish, Tyson turned translation into art. Her most notable published work is her translation of Russia by Theodore Gautier, which was warmly received by critics, the public, and the Club itself.
 
 ### Relation
 
@@ -19,6 +19,6 @@ Williams, Richard. "[Tyson of Maryland](http://www.genealogy.com/forum/surnames/
 
 ### Contributed by
 
-Jill Fury
+Jill Fury; Claire McElduff
 
 [View Tyson's Works](https://wlcb.github.io/archive/browse.html#tyson)
