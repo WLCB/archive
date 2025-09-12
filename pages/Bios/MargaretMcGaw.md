@@ -14,4 +14,6 @@ Margaret McGaw was one of twenty members elected to the Literary Club in May 189
 
 “George K. M’Gaw Dies,” *Baltimore Sun*, September 10, 1919: 6.
 
-Contributor: Cynthia Requardt
+### Contributed by
+
+Cynthia Requardt
