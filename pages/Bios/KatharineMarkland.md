@@ -10,7 +10,7 @@ The daughter of Woman's Literary Club of Baltimore president Letitia Wrenshall a
 
 ### Relation
 
-Fletcher Garard Markland (divorced 1905)
+Fletcher Garard Markland (divorced 1905); Letitia Yonge Wrenshall
 
 ### Contributed by
 
