@@ -18,5 +18,6 @@ Ellen Austin Walker (Mrs. Jordan) Stabler
 
 “Obituary: Mrs. Edward Stabler, Jr.” *Baltimore Sun* May 9, 1918, 5.
 
-Contributor: Cynthia Requardt
+### Contributed by
 
+Cynthia Requardt
