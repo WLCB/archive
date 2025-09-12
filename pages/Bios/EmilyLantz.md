@@ -15,4 +15,8 @@ Shepherd, Henry Elliot. The Representative Authors of Maryland. New York: Whiteh
 
 Death announcement. *Baltimore Sun*, Apr. 24, 1931: 19.
 
+### Contributed by
+
+Hunter Flynn
+
 [View Lantz's Works](https://wlcb.github.io/archive/browse.html#lantz)
