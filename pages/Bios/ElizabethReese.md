@@ -22,4 +22,6 @@ Findagrave.com
 
 US Census, 1900 and 1910 
 
-Contributor: Jean Lee Cole
+### Contributed by
+
+Jean Lee Cole
