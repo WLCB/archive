@@ -31,4 +31,8 @@ Crane, Frank and Edward Jewitt Wheeler, ed. *Current Opinion*, Vol. 5 (New York:
 
 Requardt, Cynthia. "Club History." The Woman's Literary Club of Baltimore. Accessed May 5, 2018. [http://loyolanotredamelib.org/Aperio/WLCB/club-history](http://loyolanotredamelib.org/Aperio/WLCB/club-history)
 
+### Contributed by
+
+Katie Kazmierski; Cynthia Requardt
+
 [View Richardson's Works](https://wlcb.github.io/archive/browse.html#richardson)
