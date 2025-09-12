@@ -16,4 +16,6 @@ Stiebler was acquainted with the Club through her work. She taught with Lucy Lat
 
 Stiebler, Lena. *Vocal Study of Fundamental Harmony: Suggestions to Teachers and Students*. Baltimore: Peabody Conservatory Preparatory Department, 1923. 12 pp.
 
-Contributor: Cynthia Requardt
+### Contributed by 
+
+Cynthia Requardt
