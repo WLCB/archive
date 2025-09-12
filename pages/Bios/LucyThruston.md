@@ -34,3 +34,7 @@ Called to the Field (review). *Baltimore Sun*, April 4, 1906.
 "Lucy M. Kidd Thruston." Find A Grave (https://www.findagrave.com). Accessed May 1, 2018.
 
 [View Thruston's Work](https://wlcb.github.io/archive/browse.html#thruston)
+
+### Contributed by
+
+Megan Hultberg
