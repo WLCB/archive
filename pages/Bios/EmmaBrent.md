@@ -20,4 +20,6 @@ Turnbull, Francese L. “President’s Talk,” October 1894, Turnbull Papers MS
 
 “Death of Robert J. Brent, Esq.,” *Baltimore Sun*, February 5, 1872, p. 4.
 
-Contributor: Cynthia Requardt
+### Contributed by 
+
+Cynthia Requardt
