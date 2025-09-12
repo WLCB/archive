@@ -19,4 +19,8 @@ John D. Early
 
 Woman's Literary Club of Baltimore. Meeting Minutes, Oct 10, 1905. Woman's Literary Club of Baltimore Papers, MS 988, Box 4, Book 3, Maryland Historical Society, Baltimore, MD. The Woman's Literary Club of Baltimore Archive. 
 
+### Contributed by
+
+Sydney Johnson
+
 [View Early's Works](https://wlcb.github.io/archive/browse.html#maud%20g)
