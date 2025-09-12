@@ -13,4 +13,8 @@ Clarissa Badger Newman was born in 1844. Her parents passed away when she was ju
 
 Sewall, Richard B. [The Life of Emily Dickinson](https://books.google.com/books?id=odjIKZKYHJQC&pg=PA265&lpg=PA265&dq=clara+newman+turner+emily+dickinson&source=bl&ots=Z5pAMdWkri&sig=nHe4YVpxxqUo6yhJcgDBFDqov-0&hl=en&sa=X&ved=0ahUKEwi7j5-IhIjZAhVBTd8KHbNlDOYQ6AEIMTAC#v=onepage&q=clara%20newman%20turner%20emily%20dickinson&f=false). Cambridge, MA: Harvard University Press, 2003. 
 
+### Contributed by
+
+Jill Fury
+
 [View Turner's Works](https://wlcb.github.io/archive/browse.html#clara)
