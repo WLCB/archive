@@ -22,4 +22,8 @@ Aaron John Vanderpoel
 
 Saratoga. "[Adaline Elizabeth Van Schaack Vanderpoel](https://www.findagrave.com/memorial/91114723/adaline-elizabeth-vanderpoel%20)." FindAGrave.com. Last edited June 1st, 2012.
 
+### Contributed by
+
+Clara Love
+
 [View Vanderpoel's Work](https://wlcb.github.io/archive/browse.html#vanderpoel)
