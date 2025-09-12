@@ -17,4 +17,8 @@ Lizette Woodworth Reese was a nationally acclaimed poet whose work H. L. Mencken
 
 "[Lizette Woodworth Reese](http://baltimoreauthors.ubalt.edu/writers/lizettereese.htm)." Baltimore Literary Heritage Project.
 
+### Contributed by
+
+Katie Shiber; Hunter Flynn
+
 [View Reese's Works](https://wlcb.github.io/archive/browse.html#lizette)
