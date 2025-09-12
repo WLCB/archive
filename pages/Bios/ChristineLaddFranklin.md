@@ -19,4 +19,8 @@ Woman's Literary Club of Baltimore. Meeting Minutes, Mar 4, 1893. Woman's Litera
 
 “[Christine Ladd-Franklin](http://www.britannica.com/biography/Christine-Ladd-Franklin).” Encyclopædia Britannica. Encyclopædia Britannica, Inc., accessed Feb. 26, 2018.
 
+### Contributed by
+
+Sydney Johnson
+
 [View Ladd-Franklin's Works](https://wlcb.github.io/archive/browse.html#franklin)
