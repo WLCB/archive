@@ -7,7 +7,7 @@ permalink: /AnneWhitney.html
 ## Anne Weston Whitney (1849-1909)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/AnneWhitney.jpg" alt="Anne Weston Whitney"></div>
 
-Anne "Annie" Weston Whitney was born in Massachusetts in 1849. She moved to Baltimore and was an extremely active Club member from 1892-1908, holding office as a Vice President and Chairman of many committees during those years. Whitney was also the secretary of the American Folk-Lore Society, and she published multiple collections of Maryland folk beliefs and superstitions. A volume of her writings, compiled with fellow member Caroline Canfield Bullock, was published posthumously in 1925, under the title *Folk-Lore in Maryland*. 
+A self-trained anthropologist, lover of folklore and what we might call the paranormal, Anne "Annie" Weston Whitney was an extremely active Club member who was always eager to share her findings with the Club. Between 1892 and 1908, she held office as a Vice President, Corresponding Secretary, and chair of many committees including fiction, the stury of the English language, ethnology, and anthropology. Whitney was also the secretary of the American Folk-Lore Society, and she published multiple collections of Maryland folk beliefs and superstitions. A volume of her writings, compiled with fellow member Caroline Canfield Bullock, was published posthumously in 1925, under the title *Folk-Lore in Maryland*. While Whitney's work displays her passion for her subject, she was not especially impartial when observing other cultures. Her essays on "Negro American Dialects," which can be located among the works we include in our archive, portray Black dialects as degraded versions of 'educated' white speech, indicating Whitney's attitude of superiority toward the cultures she spent so much time studying.
 
 News articles were published about Whitney’s curiosity for folklore and passion for research, and she remained a prominent Club member, even after her move to New York in 1908, until her death the following year.
 
@@ -21,6 +21,6 @@ The American Folklore Society. "[Officers of the American Folklore Society](http
 
 ### Contributed by
 
-Clara Love
+Clara Love; Natalie Muñoz
 
 [View Whitney's Works](https://wlcb.github.io/archive/browse.html#whitney)
