@@ -7,7 +7,9 @@ permalink: /AliceLord.html
 ## Alice Emma Sauerwein Lord (Mrs. Charles W.) (1848-1930)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/AliceLord.jpg" alt="Alice Emma Sauerwein Lord"></div>
 
-Alice Emma Sauerwein was born in 1848 in Baltimore, Maryland, and was the second wife of Charles W. Lord. Lord was a member of the Woman's Literary Club of Baltimore between 1890-1895 and 1909-1915, and served on the Board of Managers for four years during that time. She was a poet, novelist, and playwright. Her published works include a collection of poetry, *A Symphony in Dreamland* (1899), the historical novel *The Days of Lamb and Coleridge* (1893), which was positively reviewed in the Baltimore Sun, and a play, *A Vision's Quest* (1899). She frequently offered her works during Club meetings, reading them herself or having them read by other Club members. Lord was also involved in the Woman’s Club of Roland Park and The Lend-a-Hand Club of Mount Washington. She died in 1930 at age 81.
+Alice Emma Sauerwein was one of the WLCB's most active members. She frequently presented her works and the works of others to the Club, and she was decisive and opinionated when organizational matters came to the floor. Born in 1848 in Baltimore to a prominent family in Baltimore commercial circles and civil society, she was the second wife of Charles W. Lord. One of her editors noted that the bulk of her writings were published following her marriage, underscoring the seriousness with which she undertook her literary pursuits and, perhaps, implying her husband's support of her activities. Lord was also involved in the Woman’s Club of Roland Park and The Lend-a-Hand Club of Mount Washington. 
+
+A poet, novelist, and playwright. Her published works include a collection of poetry, *A Symphony in Dreamland* (1899), the historical novel *The Days of Lamb and Coleridge* (1893), which was positively reviewed in the Baltimore Sun, and a play, *A Vision's Quest* (1899). She dedicated *A Symphony in Dreamland* to her husband, whos "tender counsels bade me hope and work." 
 
 ### Relation
 
