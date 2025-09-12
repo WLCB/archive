@@ -16,4 +16,8 @@ Cloud, Virginia Woodward. *The Collected Poems of Virginia Woodward Cloud*. Henr
 
 Fleming, W. L. *[The South in the Building of the Nation: Southern Biography](https://loyolanotredamelib.org/Aperio/WLCB/exhibits/show/club-bios/item/books.google.com/books?id=P74RAAAAYAAJ&printsec=frontcover#v=onepage&q&f=false)*. vol. 11, Southern Historical Publication Society, 1909.
 
+### Contributed by
+
+Tara Brooky
+
 [View Cloud's Works](https://wlcb.github.io/archive/browse.html#cloud)
