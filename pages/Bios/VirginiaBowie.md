@@ -6,9 +6,9 @@ permalink: /VirginiaBowie.html
 ## Virginia Berkley Bowie (1880-1976)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/VirginiaBowie.jpg" alt="Virginia Berkley Bowie"></div>
 
-Virginia Bowie was born in Baltimore in 1880. She attended the Bard-Avon School of Expression and became well known in society for her participation in the arts. Serving as Secretary and Treasurer, Bowie worked for Stagecraft Studios in Baltimore. She also served as historian of the Baltimore chapter of the Daughters of the American Revolution.
+Virginia Berkley Bowie straddled the line between society woman and actress. Born in Baltimore in 1880, she attended the Bard-Avon School of Expression and became well known as an actress. As a descendent of the proment Evensfield family, she debuted in society when she came of age bud did not marry until 1928, when she was in her late thirties. Bowie excelled as an actress and student of foreign languages, and had travelled with her family throughout Europe. Serving as Secretary and Treasurer of the Stagecraft Studios in Baltimore, she performed in *King Lear's Wife* and numerous other plays. She also served as historian of the Baltimore chapter of the Daughters of the American Revolution.
 
-A member of the Woman’s Literary Club of Baltimore from 1909 until at least 1920, she served on the Committees of Unfamiliar Records, Colonial and Revolutionary History, and Foreign Languages. She wrote many essays and short stories and translated numerous plays and texts from Italian and French, reading some at club meetings. Bowie married Major Frederick Schoenfeld in 1928; she died in Maryland in 1976.
+A member of the Woman’s Literary Club of Baltimore from 1909 until at least 1920, she served on the Committees of Unfamiliar Records, Colonial and Revolutionary History, and Foreign Languages. She wrote many essays and short stories and translated numerous plays and texts from Italian and French, reading some at club meetings. 
 
 ### Relation 
 Frederick Schoenfeld
