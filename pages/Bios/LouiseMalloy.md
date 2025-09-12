@@ -7,7 +7,9 @@ permalink: /LouiseMalloy.html
 ## Louise Malloy (1858-1947)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/LouiseMalloy.jpg" alt="Louise Malloy"></div>
 
-Louise Malloy was born in Baltimore and educated at the Academy of the Visitation. She was one of the first women to be hired as a journalist for the _Baltimore American_, where she worked for many years. At the newspaper, she established the women's page, "Facts and Fancies," and covered the local theater scene. Between 1903 and about 1920, she also wrote jokes and verse for the _American_'s daily humor column, under the pseudonym Josh Wink. Malloy also wrote plays, two of which were staged on Broadway; her most successful play was _The Player Maid_. She was a member of the Club for the 1894-95 season and again from 1904 to 1910, where her work was very positively received. Malloy also belonged to the Woman’s Club of Roland Park. She was honored by the Baltimore branch of the National League of American Penwomen in 1939 a few years before her death in 1947.
+As Baltimore's first woman journalist and as a playwright, Louise Malloy was one of the most influential crusaders in the WLCB. Malloy was a reproter and columnist fo the Baltimore American newspaper for more than three decades, beginning in the mid-1880s. During her long journalistic career, she wrote and edited material for the children's page, and she also wrote editorials and reviewed plays. For over twenty years, she also wrote and edited the daily humor column for the American under the pseudonym Josh Wink. As Josh Wink, she published literally thousands of jokes and poems. Malloy was a serious advocate for social and muinipal reform during her lifetime, but she was also very funny.
+
+While expressing progressive views in her writing, Malloy is not known to have actively participated in suffrage or women's rights movements. Her reticence may have been due to her devout Catholocism. Yet her sense of humor made readers stop and think about the treatment of women in a male-dominated society. Malloy was an admirer of William Shakespeare, as can be seen in her romantic comedy *The Player Made*, which was written in 1905 and performed on Broadway and toured small theaters throughout the South. She was an early member of the WLCB but was most active in the 1910s, when she presented several of her plays during Club meetings.
 
 ### Sources
 
@@ -21,6 +23,6 @@ Agnes Hooper Gottlieb, "Malloy of the American: Baltimore's Pioneer Woman Journa
 
 ### Contributed by
 
-Kaitlyn Kutch; Jean Lee Cole
+Kaitlyn Kutch; Francesca D'Aloia
 
 [View Malloy's Works](https://wlcb.github.io/archive/browse.html#malloy)
