@@ -21,4 +21,8 @@ Elizabeth Lester Mullin was born c. 1874 to Michael A. Mullin, a well-known lawy
 
 "Elizabeth Lester Mullin (c. 1874–1952)." Find A Grave, database and images (http://findagrave.com). Accessed 29 April 2018.
 
+### Contributed by
+
+Katie Shiber
+
 [View Mullin's Works](https://wlcb.github.io/archive/browse.html#mullin)
