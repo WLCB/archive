@@ -13,8 +13,8 @@ Louise Clarkson Whitelock was born in Baltimore in 1851, and had published many 
 
 George Whitelock
 
-### Contributed by
+### Contributors
 
 Clara Love; Miranda Nolan
 
-[View Whitelock's Work](https://wlcb.github.io/archive/browse.html#whitelock)
+[View Whitelock's Works](https://wlcb.github.io/archive/browse.html#whitelock)
