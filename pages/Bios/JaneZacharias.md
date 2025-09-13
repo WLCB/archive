@@ -16,8 +16,8 @@ TITLE. *Baltimore American*, Jan. 6, 1906: 14.
 
 “Mrs. Markland Divorced: She Has Spent Part of Time in Paris Since Separation.” *Baltimore Sun*, Apr. 9, 1905: 9.
 
-### Contributed by
+### Contributors
 
-Ju'waun Morgan; Jean Lee Cole
+Ju'waun Morgan
 
-[View Zacharias' Work](https://wlcb.github.io/archive/browse.html#zacharias)
+[View Zacharias' Works](https://wlcb.github.io/archive/browse.html#zacharias)
