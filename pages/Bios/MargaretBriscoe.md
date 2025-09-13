@@ -13,7 +13,7 @@ Margaret Sutton Briscoe was born in Baltimore in 1864 and was an honorary member
 
 ["Margaret Sutton Briscoe Papers,"](https://archivesspace.amherst.edu/repositories/2/resources/268) Amherst College Archival Collections.
 
-### Contributed by
+### Contributors
 
 Monica Malouf
 
