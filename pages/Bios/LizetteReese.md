@@ -13,7 +13,7 @@ A teacher by trade and a poet at heart, Reese reportedly wrote much of her poetr
 
 ### Sources
 
-"[Lizette Woodworth Reese and the Poetry of Spring](http://www.mdhs.org/underbelly/2015/04/16/lizette-woodworth-reese-and-the-poetry-of-spring/)." *The Underbelly*, Maryland Hisotrical Society, Apr. 16 2016. Accessed May 1, 2018.
+"[Lizette Woodworth Reese and the Poetry of Spring](http://www.mdhs.org/underbelly/2015/04/16/lizette-woodworth-reese-and-the-poetry-of-spring/)." *The Underbelly*, Maryland Historical Society, Apr. 16 2016. Accessed May 1, 2018.
 
 "[Lizette Woodworth Reese](https://www.poetryfoundation.org/poets/lizette-woodworth-reese)." Poetry Foundation. Accessed May 1, 2018. 
 
