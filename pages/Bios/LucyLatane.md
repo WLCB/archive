@@ -25,6 +25,8 @@ Latané, Lucy Temple. *[Parson Latané, 1672-1732](https://babel.hathitrust.org/
 
 “[Burial of Latané, The](https://www.encyclopediavirginia.org/Burial_of_LatanAC._The).” Encyclopedia Virginia. 
 
-### Contributed by
+### Contributors
 
 Cynthia Requardt
+
+[View Latané's Works](https://wlcb.github.io/archive/browse.html#latane)
