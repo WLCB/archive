@@ -11,6 +11,7 @@ Octavia Bates was a prominent clubwoman who had worked extensively to extend wom
 In 1900 Bates made an extended visit to Baltimore, staying with Dr. Nellie V. Mark, an early member of the WLCB who was also active in women’s issues. As a Club member,  Bates served as the Chairman of the Committee on Letters and Autographs and presented papers on Foreign Travel and Foreign Languages. She was also an active member of the Maryland Line Chapter of the Daughters of the American Revolution. After her death, the Club remembered her as “a woman of wide culture and thought, her talents essentially forensic.”
 
 ### References
+
 Octavia Williams Bates, ["Municipal Suffrage for Women in Michigan,"](http://digital.library.upenn.edu/women/eagle/congress/bates.html) in *The Congress of Women: Held in the Woman's Building, World's Columbian Exposition*, Chicago, U. S. A., 1893, ed. Eagle, Mary Kavanaugh Oldham, (Chicago, Ill: Monarch Book Company, 1894) pp. 664-667. 
 
 [“Miss Octavia Williams Bates: A Biographical Sketch of One of Michigan’s Prominent Alumnae,”](https://books.google.com/books?id=DhPiAAAAMAAJ&pg=PA98&lpg=PA98&dq=%22Octavia+Williams+Bates%22&source=bl&ots=iXbM9FKx8-&sig=OGmqgfGVgX-rPROlesSE1SEyopM&hl=en&sa=X&ved=2ahUKEwjdh7HrpY3dAhWBnFkKHX1vA_QQ6AEwEHoECAAQAQ#v=onepage&q=%22Octavia%20Williams%20Bates%22&f=false) *Michigan Alumnus* II, no. 7 (April 1896): 97-98. 
@@ -19,6 +20,6 @@ Octavia Williams Bates, ["Municipal Suffrage for Women in Michigan,"](http://dig
 
 “A Detroit Portia.” *Atchinson Daily Globe*, June 23, 1899. 
 
-### Contributed by
+### Contributors
 
 Cynthia Requardt
