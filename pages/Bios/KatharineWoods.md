@@ -23,8 +23,8 @@ Reiche, Fanny K. "Katharine Pearson Woods." *Library of Southern Literature Vol.
 
 Also see entry on Woods in [Encyclopedia.com](http://www.encyclopedia.com/arts/news-wires-white-papers-and-books/woods-katharine-pearson).
 
-### Contributed by
+### Contributors
 
-Jean Lee Cole
+Ju'waun Morgan
 
 [View Woods' Work](https://wlcb.github.io/archive/browse.html#woods)
