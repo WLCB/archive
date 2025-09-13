@@ -23,8 +23,8 @@ Hester Dorsey Richardson
 ### Sources
 "Mary Virginia Dorsey," *Maryland Women*, ed. Margie Luckett (1931-1942), 108-112.
 
-### Contributed by
+### Contributors
 
-Marina Fazio; Jean Lee Cole
+Marina Fazio
 
 [View Dorsey's Works](https://wlcb.github.io/archive/browse.html#Dorsey%2C%20Marian)
