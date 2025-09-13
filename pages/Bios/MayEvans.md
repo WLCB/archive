@@ -15,7 +15,7 @@ May Garrettson Evans spent her entire life breaking boundaries. She is credited 
 
 Geiger, Dale. "[Sisters in Step](https://pages.jh.edu/jhumag/0400web/29.html)." *Johns Hopkins Magazine*, April 2000. 
 
-### Contributed by
+### Contributors
 
 Sydney Johnson; Alessia Hughes
 
