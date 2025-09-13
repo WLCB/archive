@@ -47,7 +47,7 @@ The project team has painstakingly recovered the histories of the most prominent
 <tr>
     <td><a href="https://wlcb.github.io/archive/MayEvans.html"><img src="https://wlcb.github.io/archive/assets/img/MayEvans.jpg" alt="May Garrettson Evans"><br />May Garrettson Evans</a></td>
     <td><a href="https://wlcb.github.io/archive/MargaretFayerweather.html"><img src="https://wlcb.github.io/archive/assets/img/NoBioImage.jpg" alt="Margaret Pollock Fayerweather"><br />Margaret Pollock Fayerweather</a></td>
-    <td><a href="https://wlcb.github.io/archive/MarionFenhagen.html"><img src="https://wlcb.github.io/archive/assets/img/NoBioImage.jpg" alt="Marion Stansbury (Mrs. James) Fenhagen"><br />Marion Stansbury (Mrs. James) Fenhagen</a></td>    
+    <td><a href="https://wlcb.github.io/archive/MarionFenhagen.html"><img src="https://wlcb.github.io/archive/assets/img/MarionFenhagen.jpg" alt="Marion Stansbury (Mrs. James) Fenhagen"><br />Marion Stansbury (Mrs. James) Fenhagen</a></td>    
     <td><a href="https://wlcb.github.io/archive/ElizabethGraham.html"><img src="https://wlcb.github.io/archive/assets/img/ElizabethGraham.jpg" alt="Elizabeth Turner Graham"><br />Elizabeth Turner Graham</a></td>
 </tr>
 <tr>
