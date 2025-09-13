@@ -23,6 +23,8 @@ Charles W. Lord
 
 “[Mrs. Alice Emma Lord](https://www.findagrave.com/memorial/181853380/alice-emma-lord).” Find a Grave. July 28th, 2017. Accessed May 1, 2018.
 
+Perine, George Corbin, ed. *The Poets and Verse-writers of Maryland: With Selections from Their Works*. Cincinnati: The Editor, 1898.
+
 ### Contributed by
 
 Kaitlyn Kutch; Jean Lee Cole
