@@ -29,6 +29,8 @@ At her death, the Woman’s Literary Club remembered Lydia Crane as “one of it
 
 "[John M. Daniel](https://www.encyclopediavirginia.org/Daniel_John_M_1825-1865#start_entry)," Encyclopedia Virginia.
 
-### Contributed by
+### Contributors
 
 Cynthia Requardt
+
+[View Crane's Works](https://wlcb.github.io/archive/browse.html#crane)
