@@ -27,4 +27,4 @@ Also see entry on Woods in [Encyclopedia.com](http://www.encyclopedia.com/arts/n
 
 Ju'waun Morgan
 
-[View Woods' Work](https://wlcb.github.io/archive/browse.html#woods)
+[View Woods' Works](https://wlcb.github.io/archive/browse.html#woods)
