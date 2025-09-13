@@ -22,8 +22,4 @@ Findagrave.com
 
 US Census, 1900 and 1910 
 
-### Contributed by
-
-Jean Lee Cole
-
 [View Reese's Works](https://wlcb.github.io/archive/browse.html#mccormick)
