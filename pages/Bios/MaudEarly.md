@@ -13,13 +13,14 @@ Maud Graham Early was born in 1842 and was a founding member of the WLCB. Her pa
 John D. Early
 
 ### Sources 
+
 "In Mrs. Early's Memory." *Baltimore Sun*, Oct. 11, 1905.
 
 "Leaves Jewels to Daughter." *Baltimore Sun*, Sept. 23, 1905.
 
 Woman's Literary Club of Baltimore. Meeting Minutes, Oct 10, 1905. Woman's Literary Club of Baltimore Papers, MS 988, Box 4, Book 3, Maryland Historical Society, Baltimore, MD. The Woman's Literary Club of Baltimore Archive. 
 
-### Contributed by
+### Contributors
 
 Sydney Johnson; Jill Fury
 
