@@ -20,3 +20,5 @@ Bullock, Caroline Canfield. “[Preface.](https://babel.hathitrust.org/cgi/pt?id
 ### Contributors
 
 Cynthia Requardt
+
+[View Bullock's Works](https://wlcb.github.io/archive/browse.html#bullock)
