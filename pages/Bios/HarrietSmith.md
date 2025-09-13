@@ -25,8 +25,8 @@ Reiche, Fanny K. “Baltimore Is The Home Of Many Conspicuous Woman Writers.” 
 
 “Woman Novelist Dies in Philadelphia Home.” *Baltimore Sun*, 10 May 1947: 5. 
 
-### Contributed by
+### Contributors
 
 Jonathan Flink; Tara Brooky
 
-[Read Smith's Work](https://wlcb.github.io/archive/browse.html#harriet)
+[Read Smith's Works](https://wlcb.github.io/archive/browse.html#harriet)
