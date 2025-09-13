@@ -15,6 +15,6 @@ Nelson, Mrs. Pennington.  “The Confederate Widow’s School.” *Baltimore Sun
 
 “Mrs. Marion G. S. Fenhagen.” *Baltimore Sun*, January 27, 1946, p. 12.
 
-### Contributed by
+### Contributors
 
 Cynthia Requardt
