@@ -11,11 +11,11 @@ Mary Spear Tiernan shared many commonalities with other women writers of her gen
 
 ### Sources
 
-"[Maryland Affairs](https://chroniclingamerica.loc.gov/lccn/sn85038292/1891-01-17/ed-1/seq-3/#date1=1789&index=3&rows=20&words=Mary+Spear+Tiernan&searchType=basic&sequence=0&state=&date2=1949&proxtext=mary+spear+tiernan&y=0&x=0&dateFilterType=yearRange&page=1)." *Democratic Advocate* (Westminster, MD), January 17, 1891.
+"Graves Decorated by Women," *Baltimore Sun*, November 3, 1900. 
 
 Lantz, Emily Emerson. "Maryland Heraldry," *Baltimore Sun*, January 1, 1905.
 
-"Graves Decorated by Women," *Baltimore Sun*, November 3, 1900. 
+"[Maryland Affairs](https://chroniclingamerica.loc.gov/lccn/sn85038292/1891-01-17/ed-1/seq-3/#date1=1789&index=3&rows=20&words=Mary+Spear+Tiernan&searchType=basic&sequence=0&state=&date2=1949&proxtext=mary+spear+tiernan&y=0&x=0&dateFilterType=yearRange&page=1)." *Democratic Advocate* (Westminster, MD), January 17, 1891.
 
 ### Contributors
 
