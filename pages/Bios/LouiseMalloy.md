@@ -21,7 +21,7 @@ Agnes Hooper Gottlieb, "Malloy of the American: Baltimore's Pioneer Woman Journa
 
 “Miss Malloy Gives Talk.” *Baltimore Sun*, May 12, 1911.
 
-### Contributed by
+### Contributors
 
 Kaitlyn Kutch; Francesca D'Aloia
 
