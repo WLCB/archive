@@ -19,8 +19,8 @@ A teacher by trade and a poet at heart, Reese reportedly wrote much of her poetr
 
 "[Lizette Woodworth Reese](http://baltimoreauthors.ubalt.edu/writers/lizettereese.htm)." Baltimore Literary Heritage Project.
 
-### Contributed by
+### Contributors
 
-Katie Shiber; Claire McElduff; Jean Lee Cole
+Katie Shiber; Claire McElduff; Hunter Flynn
 
 [View Reese's Works](https://wlcb.github.io/archive/browse.html#lizette)
