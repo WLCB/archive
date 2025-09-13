@@ -14,10 +14,7 @@ Davis was invited to join the Club in May 1893, but was an infrequent contributo
 She lived with her sister Rebecca Dorsey Davis on Lanvale Street and took classes at the Maryland Institute of Art. In February 1904, during the fire that destroyed much of downtown Baltimore, Davis did a watercolor of the scene from the third-floor window of her home, “[The Great Baltimore Fire from 137 West Lanvale Street, 1904](http://www.digitalmaryland.org/fire/collections/mhbf001/mhbf001l.html).”
 
 ### Sources
+
 “Affairs at the State Capital.” *Baltimore Sun*, January 16, 1882, p. 4.
 
 “[The Great Baltimore Fire from 137 West Lanvale Street, 1904](http://www.digitalmaryland.org/fire/collections/mhbf001/mhbf001l.html),” DigitalMaryland.org. 
-
-### Contributed by
-
-Jean Lee Cole
