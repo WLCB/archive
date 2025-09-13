@@ -5,7 +5,7 @@ permalink: /FlorenceTyson.html
 ---
 ## Florence McIntyre Tyson (1854-1926)
 
-Born in Hanover, Delaware in 1854, Florence McIntyre Tyson was intelligent and worldly. Tyson was a member of the Woman’s Literary Club of Baltimore from the 1893-1894 season until the 1909-1910 season, when she resigned due to her frequent absence from Baltimore. Tyson was the chairman of several committees while involved with the Club, including the Committee on Translations and the Committee on Foreign Languages. A woman of many languages, including French, Italian, German, and Spanish, Tyson turned translation into art. Her most notable published work is her translation of Russia by Theodore Gautier, which was warmly received by critics, the public, and the Club itself.
+Born in Hanover, Delaware in 1854, Florence McIntyre Tyson was intelligent and worldly. Tyson was a member of the WLCB from the 1893-1894 season until the 1909-1910 season, when she resigned due to her frequent absence from Baltimore. Tyson was the chairman of several committees while involved with the Club, including the Committee on Translations and the Committee on Foreign Languages. A woman of many languages, including French, Italian, German, and Spanish, Tyson turned translation into art. Her most notable published work is her translation of *Russia* by Theodore Gautier, which was warmly received by critics, the public, and the Club itself.
 
 ### Relation
 
