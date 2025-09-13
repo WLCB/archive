@@ -6,7 +6,7 @@ permalink: /HenriettaSzold.html
 ## Henrietta Szold (1860-1945)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/HenriettaSzold.jpg" alt="Henrietta Szold"></div>
 
-Well educated, Szold knew French, German, and Hebrew and taught these languages to others. Szold was very involved in Jewish groups in America, most notably the Jewish Publication Society (she was the only female). Her time in the Woman’s Literary Club of Baltimore, she was well known for her translations of popular works, most famously Lady Katie Magnus’s Outlines of Jewish History. Aside from being a part of many other committees and organizations where she was the only woman, Szold co-founded the Hadassah, the Women’s Zionist organization in America which led to funding which brought on the American Zionist Medical Unit, an American field hospital in Palestine. This work brought her to Palestine where she remained to her death. 
+Well educated, Szold knew French, German, and Hebrew and taught these languages to others. Szold was very involved in Jewish groups in America, most notably the Jewish Publication Society (where she was the only female member). During the few years she belonged to the WLCB, she produced translations of popular works, including Lady Katie Magnus’s *Outlines of Jewish History*. Szold would go on to become a co-founder of the Hadassah, the Women’s Zionist organization in America. Her work with the American Zionist Medical Unit, an American field hospital in Palestine, brought her to Palestine, where she remained for the rest of her life. 
 
 ### Sources
 
