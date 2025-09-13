@@ -17,8 +17,8 @@ Turnbull's first publication was a narrative poe, *Marguerite's Vow* (1882), but
 
 Lawrence Turnbull
 
-### Contributed by
+### Contributors
 
-Jill Fury, Cynthia Requardt; Jean Lee Cole
+Jill Fury, Cynthia Requardt
 
-[View Turnbull's Work](https://wlcb.github.io/archive/browse.html#francese)
+[View Turnbull's Works](https://wlcb.github.io/archive/browse.html#francese)
