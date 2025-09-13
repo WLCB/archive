@@ -5,12 +5,15 @@ permalink: /MarionFenhagen.html
 ---
 
 ## Marion Stansbury Fenhagen (1875-1946)
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/fenhagen.png" alt="Marion S. Fenhagen"></div>
 
-Marion Stansbury Fenhagen came from a Maryland family but was born and raised in Milwaukee, Wisconsin. She was sent to Baltimore to finish her education at the Edgeworth School on Franklin Street, run by Madame H. P. Lefebvre, a Confederate war widow. After her schooling, she stayed in Baltimore, marrying James C. Fenhagen, a banker who became a partner in Robert Garrett and Sons. The Fenhagens traveled a great deal, and when Fenhagen joined the Club in 1910 she frequently gave papers for the Committee on Foreign Travel.
+Marion Gertrude Stansbury Fenhagen came from a Maryland family but was born and raised in Milwaukee, Wisconsin. She was sent to Baltimore to finish her education at the Edgeworth School on Franklin Street, run by Madame H. P. Lefebvre, a Confederate war widow. After her schooling, she stayed in Baltimore, marrying James C. Fenhagen, a banker who became a partner in Robert Garrett and Sons. The Fenhagens traveled a great deal, and when Fenhagen joined the Club in 1910 she frequently gave papers for the Committee on Foreign Travel.
 
 Fenhagen was acquainted with the Washington newspaper cartoonist, Clifford Berryman, whose drawing of Theodore Roosevelt rescuing a bear cub led to the creation of the Teddy Bear toy. Fenhagen gave a paper on Berryman and presented the Club with a framed cartoon he had drawn for the Club on March 28, 1911. Fenhagen served two terms as the Club treasurer, from 1914-1916.
 
 ### Sources
+
+"[Marion G. Stansbury Fenhagen (1876-1946)](https://www.findagrave.com/memorial/103376624/marion_g-fenhagen)." Findagrave.com.
 
 “Mrs. Marion G. S. Fenhagen.” *Baltimore Sun*, January 27, 1946, p. 12.
 
