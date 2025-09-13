@@ -6,9 +6,9 @@ permalink: /EmilySmith.html
 
 ## Emily Anna (Mrs. Alan P.) Smith (1841-1919)
 
-Emily Anna Smith, referred to throughout Club documents as Mrs. Alan P. Smith, joined the Woman’s Literary Club of Baltimore in 1890, and served on the Club's first Board of Managers. She was not a particularly visible member, however, until 1906, when she became chair of the Committee on Literature of the Bible. She served again on the Board of Managers in between 1908 and 1915, serving three terms as Second Vice President and four terms as First Vice President. As First Vice President, Smith led the Club in the absence of the president, including the entire 1914-1915 season when Letitia Wrenshall was unable to return from England due to the outbreak of World War I. Smith’s single book publication, appearing in 1914, was a biography of her husband’s grandfather, Nathan R. Smith, who founded Yale Medical School. 
+Emily Anna Smith, referred to throughout Club documents as Mrs. Alan P. Smith, joined the WLCB in 1890 and served on the Club's first Board of Managers. She was not a particularly visible member, however, until 1906, when she became chair of the Committee on Literature of the Bible. She served again on the Board of Managers in between 1908 and 1915, serving three terms as Second Vice President and four terms as First Vice President. As First Vice President, Smith led the Club in the absence of the president, including the entire 1914-1915 season when Letitia Wrenshall was unable to return from England due to the outbreak of World War I. Smith’s single book publication, appearing in 1914, was a biography of her husband’s grandfather, Nathan R. Smith, who founded Yale Medical School. 
 
-Emily Anna Jones was born in Baltimore in 1841. Her mother Mary J. Jones was widowed and supported her family by running the Mount Vernon Institute for Young Ladies. Located on Mt. Vernon Place, the school catered to “girls from prominent southern families.” Emily was a teacher at the school until her marriage in 1863 to Dr. Alan Penniman Smith (1840-1898). Her upbringing by a single mother may have led her to help found the Baltimore Decorative Art Society, a charity that trained “reduced gentlewomen” to produce and sell needlework as a means of self and family support.
+Emily Anna Jones was born in Baltimore in 1841. Her mother, Mary J. Jones, was widowed and supported her family by running the Mount Vernon Institute for Young Ladies. Located on Mt. Vernon Place, the school catered to “girls from prominent southern families.” Emily was a teacher at the school until her marriage in 1863 to Dr. Alan Penniman Smith (1840-1898). Her upbringing by a single mother may have led her to help found the Baltimore Decorative Art Society, a charity that trained “reduced gentlewomen” to produce and sell needlework as a means of self and family support.
 
 ### Sources
 
@@ -24,4 +24,4 @@ Smith, Emily A. *[The Life and Letters of Nathan Smith](https://www.google.com/b
 
 Marina Fazio 
 
-[View Smith's Work](https://wlcb.github.io/archive/browse.html#emily%20anna%20smith)
+[View Smith's Works](https://wlcb.github.io/archive/browse.html#emily%20anna%20smith)
