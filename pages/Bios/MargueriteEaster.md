@@ -17,7 +17,7 @@ Marguerite E. Easter, born in Virginia in 1840, moved to Baltimore when she was 
 
 
 
-### Contributed by
+### Contributors
 
 Sydney Johnson; Natalie Muñoz
 
