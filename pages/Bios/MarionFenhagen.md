@@ -5,7 +5,7 @@ permalink: /MarionFenhagen.html
 ---
 
 ## Marion Stansbury Fenhagen (1875-1946)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/MarionFenhagen.png" alt="Marion S. Fenhagen"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/MarionFenhagen.jpg" alt="Marion S. Fenhagen"></div>
 
 Marion Gertrude Stansbury Fenhagen came from a Maryland family but was born and raised in Milwaukee, Wisconsin. She was sent to Baltimore to finish her education at the Edgeworth School on Franklin Street, run by Madame H. P. Lefebvre, a Confederate war widow. After her schooling, she stayed in Baltimore, marrying James C. Fenhagen, a banker who became a partner in Robert Garrett and Sons. The Fenhagens traveled a great deal, and when Fenhagen joined the Club in 1910 she frequently gave papers for the Committee on Foreign Travel.
 
