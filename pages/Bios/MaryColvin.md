@@ -20,7 +20,7 @@ Tilson, Carol Page. “[Mary E. Noyes Colvin](https://www.findagrave.com/memoria
 
 *Democrat and Chronicle* (Rochester, New York), Aug. 7, 1882: 2.
 
-### Contributed by
+### Contributors
 
 Katie Kazmierski
 
