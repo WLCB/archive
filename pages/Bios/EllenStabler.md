@@ -21,6 +21,6 @@ Claude R. Flory, “Florida’s Last Reconstruction Governor.” *Florida Histor
 
 “The Late Mrs. Stabler and Her Home,” *Baltimore Sun*, August 1, 1925, 8.
 
-### Contributed by 
+### Contributors
 
 Cynthia Requardt
