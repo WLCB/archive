@@ -13,8 +13,11 @@ Fayerweather also was a member of the Garden Club of America. In 1920, they publ
 *In my family we go to the nursery where Evergreen trees are grown, select one, perhaps three or four feet high, have a box or tub filled with earth, which is easily concealed by moss or green paper. After a few days in the house the children tire of it and we plant it out on the grounds. We have never lost one and each child lays claim to one or more. Sometimes if the weather is fine at Christmas, they go into the yard and decorate the tree with popcorn, paper flowers, bright berries. By so doing, nothing is lost and a fine tree gained.*
 
 ### Sources
+
 “Edward E. Fayerweather.” *Chicago Daily Tribune* March 26, 1902, p. 6. Proquest
 
 Fayerweather, Mrs. E. E. (Margaret Pollock Fayerweather), “[Notes](https://archive.org/stream/bulletinofgarden1918gard/bulletinofgarden1918gard_djvu.txt),” *Bulletin of the Garden Club of America*, 1920, p. 56. 
 
-Contributor: Cynthia Requardt
+### Contributors
+
+Cynthia Requardt
