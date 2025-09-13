@@ -17,7 +17,7 @@ Matthews, John. *[Complete American Armoury and Blue Book: Combining 1903, 1907 
 
 Williams, Richard. "[Tyson of Maryland](http://www.genealogy.com/forum/surnames/topics/tyson/384/)." Genealogy.com. October 6, 1999. Accessed May 04, 2018.
 
-### Contributed by
+### Contributors
 
 Jill Fury; Claire McElduff
 
