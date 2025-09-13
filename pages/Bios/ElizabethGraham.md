@@ -9,9 +9,10 @@ permalink: /ElizabethGraham.html
 
 Sometimes referred to as the Mother of Women's Clubs in Maryland, Elizabeth Turner Graham was born in 1837 to a Kent County Quaker family with Pennsylvania roots, and was the eldest sister of eminent artist and muralist Charles Yardley Turner. After a controversial marriage to non-Quaker John T. Graham in 1858, she moved to Baltimore and ingratiated herself in local Friends communities.
 
-Graham is best remembered for her work in women's clubs. She organized and served as president of the first women's club in Maryland, the Lend-a-Hand Club of Mt. Washington, which combined philanthropic and literary efforts. A writer and illustrator of her own poetry, Graham was a charter member of the Woman's Literary Club of Baltimore. She would remain intermittently involved with the club's literary efforts until her death in 1920, serving on such disparate committees as Unwritten History, Letters and Autographs, and Philanthropy.
+Graham is best remembered for her work in women's clubs. She organized and served as president of the first women's club in Maryland, the Lend-a-Hand Club of Mt. Washington, which combined philanthropic and literary efforts. Despite her widespread civic activities, she was virtually unknown as a poet, despite having published two volumes of poetry, which she also illustrated with her own paintings. Graham was a charter member of the WLCB and remained intermittently involved with the Club's literary efforts until her death in 1920, serving on such disparate committees as Unwritten History, Letters and Autographs, and Philanthropy.
 
 ### Relation
+
 John T. Graham
 
 ### Sources
@@ -22,7 +23,7 @@ Lantz, Emily Emerson. “Mother of Women's Clubs in Maryland Finds Rest after an
 
 Leonard, John William. *Woman's Who's Who of America*. American Commonwealth Company, 1914.
 
-### Contributed by
+### Contributors
 
 Hunter Flynn
 
