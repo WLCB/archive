@@ -15,7 +15,7 @@ Woman's Literary Club of Baltimore meeting minutes, October 7, 1899.
 
 "Obituary." *Baltimore Sun*, Feb. 9, 1944, 4.
 
-### Contributed by
+### Contributors
 
 Katie Kazmierski; Miranda Nolan; Jean Lee Cole
 
