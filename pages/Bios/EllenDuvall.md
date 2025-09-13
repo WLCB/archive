@@ -17,6 +17,6 @@ Woman's Literary Club of Baltimore meeting minutes, October 7, 1899.
 
 ### Contributors
 
-Katie Kazmierski; Miranda Nolan; Jean Lee Cole
+Katie Kazmierski; Miranda Nolan
 
 [View Duvall's Works](https://wlcb.github.io/archive/browse.html#Duvall)
