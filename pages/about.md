@@ -5,13 +5,16 @@ permalink: /about.html
 ---
 
 ## About the Archive
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-2tangN4sxxfCC0hgK_I25HF9HtWj7mx_i0ZyL7R6zg-mzJ7cxUSLMWsI20CW-lRG9BkTDcbiAGnX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 The Woman's Literary Club of Baltimore was founded in 1890 by a group of educated women who wanted to get their words into print. Over the next five decades, they met every Tuesday afternoon between October and June, hearing lectures on various topics, appreciating each other's written contributions, enjoying refreshments and each other's company.
 
 This site is a digital repository of the papers and publications of the Club, consisting of thousands of pages of meeting minutes, over a thousand meeting programs, and over one thousand publications by Club members recovered by a research team of undergraduate students led by Professor Jean Lee Cole, Department of English. 
 
 The Club's papers, which are held at the Maryland Center for History and Culture in Baltimore, Maryland, were transcribed on location as well as offsite using digital surrogates. Raw transcriptions are included on the archive and are being gradually replaced by revised and annotated transcriptions compiled by Professor Cole.
 
-Texts included in the [Virtual Library](https://wlcb.github.io/archive/browse.html) were located in academic databases and online repositories including [HathiTrust Digital Library](https://www.hathitrust.org/), [Archive.org](https://archive.org/), and [Google Books](https://books.google.com/); authorship was verified by Professor Cole. When possible, digital surrogates of texts have been embedded in the site. A selection of Club member publications were transcribed, edited, and annotated by students and published in an anthology, *Parole Femine: Words and Lives of the Woman's Literary Club of Baltimore* (Baltimore, MD: Apprentice House, 2019). The anthology is available on Amazon.com.
+Texts included in the [Virtual Library](https://wlcb.github.io/archive/browse.html) were located in academic databases and online repositories including [HathiTrust Digital Library](https://www.hathitrust.org/), [Archive.org](https://archive.org/), and [Google Books](https://books.google.com/); authorship was verified by Professor Cole. When possible, digital surrogates of texts have been embedded in the site. A selection of Club member publications were transcribed, edited, and annotated by students and published in an anthology,  *[Parole Femine: Words and Lives of the Woman's Literary Club of Baltimore](https://www.amazon.com/Parole-Femine-Womans-Literary-Baltimore/dp/1627202528/)*, was published by Loyola's Apprentice House Press in 2019, and additional research is linked on this site under the Explore tab.
+
 
 
 ## About the Site
