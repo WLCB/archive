@@ -14,12 +14,19 @@ The Woman's Literary Club of Baltimore Archive project began in the summer of 20
 #### Project lead
 - Jean Lee Cole, Professor Emerita, Department of English, Loyola University Maryland
 
+#### Technical leads
+- 2022-2023 Elizabeth James, West Virginia University Libraries
+- 2017-2019 Matthew Treskon, Loyola/Notre Dame Library
+
 #### Summer 2017
 - Hunter Flynn, Loyola Class of 2018
 - Sydney Johnson, Loyola Class of 2018
 - Katie Kazmierski, Loyola Class of 2018
 - Clara Love, Loyola Class of 2019
 - Ellen Roussel, Loyola Class of 2018
+
+#### Fall 2017-Fall 2018
+- Senior history students, Baltimore Friends School (Josh Carlin, teacher)
 
 #### Spring 2018
 - Tara Brooky, Loyola Class of 2021
@@ -42,6 +49,9 @@ The Woman's Literary Club of Baltimore Archive project began in the summer of 20
 - Katie Shiber 
 - Clara Love
 
+#### 2018-2020
+- Cynthia Requardt, volunteer
+
 #### Fall 2018-Spring 2019
 - Cole Barrett, Loyola Class of 2019  
 - Tara Brooky 
@@ -62,9 +72,3 @@ The Woman's Literary Club of Baltimore Archive project began in the summer of 20
 
 #### Summer 2019
 - Miranda Nolan
-
-#### 2018-2020
-- Cynthia Requardt, volunteer
-
-#### 2022
-- Elizabeth James, West Virginia University Libraries
