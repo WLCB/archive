@@ -7,7 +7,7 @@ permalink: /club_records.html
 ## Club Records
 ***
 
-Well aware of their historic precedence, the Woman's Literary Club of Baltimore kept meticulous records, especially during the first twenty-five years of its existence. The papers of the Club, held at the Maryland Center for History and Culture in Baltimore, Maryland, include membership logs and dues books, over 3,000 pages of handwritten (and later typed) meeting minutes, printed programs, printed and manuscript versions of the Club constitution, scrapbooks, correspondence, and other materials relating to the Club. Many of these documents have been transcribed or otherwise transformed into digitally searchable documents on this archival website.
+Well aware of their historic precedence, the Woman's Literary Club of Baltimore kept meticulous records, especially during the first twenty-five years of its existence. The papers of the Club, held at the Maryland Center for History and Culture in Baltimore, Maryland, include membership logs and dues books, over 3,000 pages of handwritten (and later typed) meeting minutes, printed programs, printed and manuscript versions of the Club constitution, scrapbooks, correspondence, and other materials relating to the Club. Many of these documents have been transcribed or otherwise transformed into digitally searchable documents on this archival website. The meeting minutes, in particular, contain a wealth of information about Club activities and individual Club members.
 
 ***
 ### [Meeting Minutes](https://wlcb.github.io/archive/meeting_minutes.html)
