@@ -8,7 +8,7 @@ permalink: /blog.html
 ## WLCB project blog highlights
 ***
 
-Between 2017-2020, project team members shared their research discoveries on the project blog. The highlighted posts included here show fascinating glimpses of the historical period and the evolution of the archive. Some of them are also starting points for future research projects. Please contact us if you'd like to contribute!
+Between 2017-2020, project team members shared their research discoveries on the project blog. The highlighted posts included here show fascinating glimpses of the historical period and the evolution of the archive. Some of them are also starting points for future research projects. Some of the themes that have most interested the project team include the club's attitudes about suffrage, race, and women's education. Their fascination with literary figures such as Sidney Lanier, Edgar Allan Poe, Shakespeare, and Robert and Elizabeth Barrett Browning and their tastes in popular fiction and poetry are also worth a deeper look. Please contact us if you'd like to contribute!
 
 ### 2020
 
