@@ -6,6 +6,26 @@ permalink: /data.html
 # a table visualization will be added below the content in this file
 ---
 
+# View and Download Data About the WLCB
+
+This site is built around several datasets, some regarding the WLCB as an organization and a large dataset of Club member publications (the Virtual Library). All data is available for browsing and download to be used by researchers, scholars, and students.
+
+## Organizational Data
+
+Data pertaining to the WLCB is held in the Woman's Literary Club of Baltimore collection at the Maryland Center for History and Culture and was transcribed over a period of several years by members of the [project team](https://wlcb.github.io/archive/project_team.html). [Club Records](https://wlcb.github.io/archive/club_records.html) are more fully described on their own pages under the About the Club tab. 
+
+<div class="card mb-3">
+    <div class="card-body">
+        <h5 class="card-title">Organizational data sets <small>(click to download/view)</small></h5>
+         <p class="card-text text-center">
+             <a class="btn btn-sm btn-secondary m-2" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vThRvLUB3sjQoyPqKzA4L0zzON2iFxAZcmJykKR0uMyPEiAG9udgoapdZ9RAKatzoKyOLOYjhcphKZV/pubhtml?widget=true&headers=false" target="_blank">Membership</a>
+             <a class="btn btn-sm btn-secondary m-2" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQDsAPDbxWtJnbKAS4TXwaLgVvyC0LFgBYPiawmR_mEDNIIXxm-Y-kD-_SmD3YUgw/pubhtml?widget=true&headers=false" target="_blank">Club Leadership</a>
+             <a class="btn btn-sm btn-secondary m-2" href="https://wlcb.github.io/archive/meeting_minutes.html" target="_blank">Meeting Minutes</a>
+             <a class="btn btn-sm btn-secondary m-2" href="https://docs.google.com/spreadsheets/d/1aZVAK3WsyAYvH8K1bfiCWEiX2YaDyCBeWVQU4TjkaQo/edit?usp=sharing" target="_blank">Programs</a>
+        </p>  
+    </div>
+</div>
+
 ## Virtual Library Collection Metadata
 ***
 
