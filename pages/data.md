@@ -15,6 +15,9 @@ This site is built around several datasets, some regarding the WLCB as an organi
         <td align="center"><img src="/assets/img/1912_04_09_program_sm.png" alt="Meeting program"></td>
         <td align="center"><img src="/assets/img/1905-10_minutes_sm.jpg" alt="Meeting minutes pages"></td>
     </tr>
+    <tr>
+        <td colspan="2">*Documents from the WLCB collection at the Maryland Center for History and Culture, Baltimore, MD.*</td>
+    </tr>
 </table>
 
 Based on dues records and membership notebooks, this [map created by Clara Love](https://wlcb.github.io/archive/mapping.html) shows the flourishing of Baltimore literary culture in the area northwest of the city center at the turn of the century, as well as growing networks of female authorship developed over the course of the Club's first three decades in existence. 
