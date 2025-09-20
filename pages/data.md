@@ -8,7 +8,7 @@ permalink: /data.html
 
 ## View and Download Data About the WLCB
 
-This site is built around several datasets, some regarding the WLCB as an organization and a large dataset of Club member publications (the Virtual Library). All data is available for browsing and download to be used by researchers, scholars, and students. **Data** includes member names, addresses, titles and presenters on programs, names of Club members holding leadership positions by year, and bibliographical (metadata) information about novels, poems, and articles published by Club members. This data was painstakingly collected by members of the [project team](https://wlcb.github.io/archive/project_team.html) over a period of several years from documents like these:
+This site is built around several datasets, some regarding the WLCB as an organization and a large dataset of Club member publications (the Virtual Library). All data is available for browsing and download to be used by researchers, scholars, and students. **Data** includes member names, addresses, titles and presenters on programs, names of Club members holding leadership positions by year, bibliographical (metadata) information about novels, poems, and articles published by Club members, and thousands of pages of manuscript text written by Club members. This data was painstakingly collected by the [WLCB project team](https://wlcb.github.io/archive/project_team.html) over a period of several years from documents like these:
 
 <div style="text-align: center;">
     <p><img src="https://wlcb.github.io/archive/assets/img/1905-10_minutes_sm.jpg" alt="Meeting minutes pages"></p>
@@ -21,7 +21,7 @@ Based on dues records and membership notebooks, this [map created by Clara Love]
 
 ## Organizational Data
 
-Data pertaining to the WLCB is held in the Woman's Literary Club of Baltimore collection at the Maryland Center for History and Culture and was transcribed over a period of several years by members of the . [Club Records](https://wlcb.github.io/archive/club_records.html) are more fully described on their own pages under the About the Club tab. 
+Data pertaining to the WLCB is held in the Woman's Literary Club of Baltimore collection at the Maryland Center for History and Culture and was transcribed over a period of several years. [Club Records](https://wlcb.github.io/archive/club_records.html) are more fully described on their own pages under the About the Club tab. 
 
 <div class="card mb-3">
     <div class="card-body">
