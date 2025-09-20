@@ -10,13 +10,15 @@ permalink: /data.html
 
 This site is built around several datasets, some regarding the WLCB as an organization and a large dataset of Club member publications (the Virtual Library). All data is available for browsing and download to be used by researchers, scholars, and students. **Data** includes member names, addresses, titles and presenters on programs, names of Club members holding leadership positions by year, and bibliographical (metadata) information about novels, poems, and articles published by Club members. This data was painstakingly collected by members of the [project team](https://wlcb.github.io/archive/project_team.html) over a period of several years from documents like these:
 
-<table>
+<table style="width:100%" {
+    border-spacing: 15px;
+}>
     <tr>
-        <td align="center"><img src="../assets/img/1905-10_minutes_sm.jpg" alt="Meeting program"></td>
+        <td align=center;><img src="https://wlcb.github.io/archive/assets/img/1905-10_minutes_sm.jpg" alt="Meeting program"></td>
         <td align="center"><img src="https://wlcb.github.io/archive/assets/img/1912_04_09_program_sm.png" alt="Meeting minutes pages"></td>
     </tr>
     <tr>
-        <td colspan="2">Documents from the WLCB collection at the Maryland Center for History and Culture, Baltimore, MD.</td>
+        <td colspan="2"><em>Documents from the WLCB collection at the Maryland Center for History and Culture, Baltimore, MD.</em></td>
     </tr>
 </table>
 
