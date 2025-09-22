@@ -24,10 +24,10 @@ Katharine Pearson Woods was a notable member of the Club whose works touched on 
 <p style="clear: both;"></p>
 
 ***
-### [Reading a Program](https://wlcb.github.io/archive/reading-a-program.html)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://wlcb.github.io/archive/reading-a-program.html"><img src="https://wlcb.github.io/archive/assets/img/program_.png" alt="12th Night program"></a></div>
+### [What Happened at a Meeting?](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)"><img src="https://wlcb.github.io/archive/assets/img/program_.png" alt="12th Night program"></a></div>
 
-The WLCB printed programs for every one of their weekly meetings, which provide a succinct key to the planned events--if you know how to read them. This [exhibit created by Clara Love](https://wlcb.github.io/archive/reading-a-program.html) takes you through a program from one of their most notable annual traditions--the WLCB's Twelfth Night Celebration, held each year to celebrate the Epiphany-- to provide a snapshot of what a meeting may have looked and sounded like.
+The WLCB met every week throughout the fall, winter and spring months. What happened at a meeting? This [exhibit](https://wlcb.github.io/archive/reading-a-program.html) created by Jean Lee Cole and Clara Love takes you through a typical program to provide a snapshot of what a meeting may have looked and sounded like. The exhibit also serves as an introduction to some of the resources available at the archive.
 <p style="clear: both;"></p>
 
 ***
