@@ -9,6 +9,13 @@ permalink: /projects.html
 The purpose of this archival site is to make further research possible. By transcribing manuscript documents to make them searchable, organizing geographical and biographical data, and making everything publicly accessible, the Woman's Literary Club of Baltimore Archive is just a starting point for research on women in Baltimore, female authorship, and turn of the century American literary history. This page collects research projects completed by project team members.
 
 ***
+### [What Happened at a Meeting?](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)"><img src="https://wlcb.github.io/archive/assets/img/WHaM_1905-11-14_projects_thumb.jpg" alt="1905 meeting program"></a></div>
+
+The WLCB met every week throughout the fall, winter and spring months. What happened at a meeting? This [exhibit](https://wlcb.github.io/archive/reading-a-program.html) created with the invaluable assistance of Clara Love takes you through a typical program to provide a snapshot of what a meeting may have looked and sounded like. The exhibit also serves as an introduction to some of the resources available at the archive.
+<p style="clear: both;"></p>
+
+***
 ### [Where They Lived](https://wlcb.github.io/archive/mapping.html)
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://wlcb.github.io/archive/mapping.html"><img src="https://wlcb.github.io/archive/assets/img/mapping.png" alt="Mapping icon"></a></div>
 
@@ -21,13 +28,6 @@ Based on dues records and membership notebooks, this [map created by Clara Love]
 
 Katharine Pearson Woods was a notable member of the Club whose works touched on areas such as: socialism, labor, immigration, religion, and more. This project includes an annotated edition of Woods's first novel, _Metzerott, Shoemaker_ (1889), an online exhibit about Woods, additional resources for understanding Woods' work, and resources documenting the reception of _Metzerott_.
 
-<p style="clear: both;"></p>
-
-***
-### [What Happened at a Meeting?](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650)"><img src="https://wlcb.github.io/archive/assets/img/program_.png" alt="12th Night program"></a></div>
-
-The WLCB met every week throughout the fall, winter and spring months. What happened at a meeting? This [exhibit](https://wlcb.github.io/archive/reading-a-program.html) created with the invaluable assistance of Clara Love takes you through a typical program to provide a snapshot of what a meeting may have looked and sounded like. The exhibit also serves as an introduction to some of the resources available at the archive.
 <p style="clear: both;"></p>
 
 ***
