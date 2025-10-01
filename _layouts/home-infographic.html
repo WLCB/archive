@@ -4,7 +4,6 @@ layout: page
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
   <div class="col-md-8">
-   {% include index/carousel.html title="The Woman's Literary Club of Baltimore Archive documents the words and lives of a fascinating group of women. They sought lasting fame in print, but have been all but forgotten. This archive is an attempt to remedy that." height="300" %}
    {% include index/description.html %}
   </div>
   <div class="col-md-4">  
@@ -13,10 +12,15 @@ layout: page
 
     {% include index/featured-terms.html field="creator" title="Writers" btn-color="info" %}
 
-    {% include index/objects.html %}
-
   </div>
   <div class="col-md-12">
+    
+    <p>Members shared many of these works at weekly meetings held between October and May for over 50 years. The goings-on of these meetings has been reconstructed, based on the thousands of pages of detailed minutes and meeting programs that have been preserved. You can learn more about these meetings here: </p>
+    <p><iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ5CGkOEgagR1uqQ83MGmbEHHsAY5yAiJRmriIkrv1S8_9EDrUO0xvpBgdwd4M5DNLJ4KP5J5i_c2wE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe></p>
+    
+    {% include index/carousel.html title="More than 1,000 publications . . ." height="300" %}
+
+    <p>Here, you can explore the varied writings produced by the WLCB, which we have collected into a <a href="https://wlcb.github.io/archive/browse.html">"Virtual Library"</a> meant to recreate the now-lost library that was carefully maintained by the Club throughout its existence. These publications included novels, children's books, poems, histories, scholarly research, newspaper journalism, jokes, and plays.</p>
     {% include index/data-download.html %}
 
     <p>This project was made possible through the generous support of the Center for the Humanities at Loyola University Maryland, the Maryland Center for History and Culture, Loyola-Notre Dame Library, Loyola's Office of Research and Sponsored Programs, and the West Virginia Humanities Council.</p>
