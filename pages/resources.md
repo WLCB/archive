@@ -9,7 +9,7 @@ permalink: /resources.html
 
 ## Team Publications
 
-Cole, Jean Lee. "Reckoning With and Through an Unknown Archive." *Students in the Archives: Pedagogy in Practice. University of Illinois Press, 2026: 197-212.
+Cole, Jean Lee. "Reckoning With and Through an Unknown Archive." *Students in the Archives: Pedagogy in Practice*. Champaign, IL: University of Illinois Press, 2026: 197-212.
 
 Cole, Jean Lee. "[Crowdsourcing LIterary Recovery Using Iterative Search Techniques](https://digitalcommons.calpoly.edu/feministpedagogy/vol6/iss5/12/)." *Feminist Pedagogy* 6.5 (2026), Article 12.
 
