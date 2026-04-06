@@ -9,7 +9,11 @@ permalink: /resources.html
 
 ## Team Publications
 
-Cole, Jean Lee. "*Legacy* Profile: Katharine Pearson Woods (1853-1923) and Excerpt from *Metzerott, Shoemaker* by Katharine Pearson Woods." *Legacy: A Journal of American Women Writers* 42.1 (2025): 76-97.
+Cole, Jean Lee. "Reckoning With and Through an Unknown Archive." *Students in the Archives: Pedagogy in Practice. University of Illinois Press, 2026: 197-212.
+
+Cole, Jean Lee. "[Crowdsourcing LIterary Recovery Using Iterative Search Techniques](https://digitalcommons.calpoly.edu/feministpedagogy/vol6/iss5/12/)." *Feminist Pedagogy* 6.5 (2026), Article 12.
+
+Cole, Jean Lee. "*Legacy* Profile: Katharine Pearson Woods (1853-1923) and excerpt from *Metzerott, Shoemaker* by Katharine Pearson Woods." *Legacy: A Journal of American Women Writers* 42.1 (2025): 76-97.
 
 Cole, Jean Lee, and Elizabeth James. "[Methodologies for Exploring Unknown Archives](https://scholarlyediting.org/issues/42/methodologies-for-exploring-unknown-archives/)." *Scholarly Editing* 42 (2025).
 
